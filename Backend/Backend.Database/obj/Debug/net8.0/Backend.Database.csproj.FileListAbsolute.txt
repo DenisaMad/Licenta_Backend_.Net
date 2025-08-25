@@ -13,3 +13,4 @@ C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Database\obj\Debug\ne
 C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Database\obj\Debug\net8.0\refint\Backend.Database.dll
 C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Database\obj\Debug\net8.0\Backend.Database.pdb
 C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Database\obj\Debug\net8.0\ref\Backend.Database.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Database\obj\Debug\net8.0\Backend.Database.sourcelink.json

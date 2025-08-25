@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\tema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{872F8C4C-97A0-4D7C-80D9-2D6152F51CE7}|tema\\tema.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\tema\\tema\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{872F8C4C-97A0-4D7C-80D9-2D6152F51CE7}|tema\\tema.csproj|solutionrelative:tema\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872F8C4C-97A0-4D7C-80D9-2D6152F51CE7}|tema\\tema.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\tema\\tema\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{872F8C4C-97A0-4D7C-80D9-2D6152F51CE7}|tema\\tema.csproj|solutionrelative:tema\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2FCA56-7A36-41F5-AEA7-51918B0028F0}|Models_\\Models_.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\tema\\models_\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2FCA56-7A36-41F5-AEA7-51918B0028F0}|Models_\\Models_.csproj|solutionrelative:models_\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2FCA56-7A36-41F5-AEA7-51918B0028F0}|Models_\\Models_.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\tema\\models_\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2FCA56-7A36-41F5-AEA7-51918B0028F0}|Models_\\Models_.csproj|solutionrelative:models_\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2FCA56-7A36-41F5-AEA7-51918B0028F0}|Models_\\Models_.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\tema\\models_\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2FCA56-7A36-41F5-AEA7-51918B0028F0}|Models_\\Models_.csproj|solutionrelative:models_\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\tema\\Models_\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models_\\Teacher.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\tema\\Models_\\Teacher.cs*",
+              "RelativeToolTip": "Models_\\Teacher.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:02:09.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\tema\\Models_\\Student.cs",
+              "RelativeDocumentMoniker": "Models_\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\tema\\Models_\\Student.cs*",
+              "RelativeToolTip": "Models_\\Student.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:01:58.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\tema\\Models_\\Class1.cs",
+              "RelativeDocumentMoniker": "Models_\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\tema\\Models_\\Class1.cs",
+              "RelativeToolTip": "Models_\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:01:37.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\tema\\tema\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "tema\\Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\tema\\tema\\Controllers\\TeachersController.cs*",
+              "RelativeToolTip": "tema\\Controllers\\TeachersController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:56:42.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\tema\\tema\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "tema\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\tema\\tema\\Controllers\\StudentsController.cs*",
+              "RelativeToolTip": "tema\\Controllers\\StudentsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:56:23.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

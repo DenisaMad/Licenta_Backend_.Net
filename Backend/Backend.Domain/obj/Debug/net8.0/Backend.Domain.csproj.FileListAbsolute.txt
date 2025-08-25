@@ -9,3 +9,5 @@ C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Domain\obj\Debug\net8
 C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Domain\obj\Debug\net8.0\refint\Backend.Domain.dll
 C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Domain\obj\Debug\net8.0\Backend.Domain.pdb
 C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Domain\obj\Debug\net8.0\ref\Backend.Domain.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Domain\obj\Debug\net8.0\Backend.Domain.sourcelink.json
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Domain\obj\Debug\net8.0\Backend.Domain.csproj.AssemblyReference.cache

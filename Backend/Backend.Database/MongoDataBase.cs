@@ -12,7 +12,7 @@ namespace Backend.Database
 {
     public class MongoDataBase
     {
-        private readonly string Connection = "mongodb+srv://Admin:<23GMxBrkQnf9vta>@cluster0.bpvikfn.mongodb.net/";
+        private readonly string Connection = "mongodb+srv://Admin:23GMxBrkQnf9vta@cluster0.bpvikfn.mongodb.net/";
         public string Database = "LicentaDB";
         public string UsersCollection = "Users";
 

@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Repositories\bin\Debug\net8.0\Backend.Repositories.deps.json
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Repositories\bin\Debug\net8.0\Backend.Repositories.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Repositories\bin\Debug\net8.0\Backend.Repositories.pdb
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Repositories\obj\Debug\net8.0\Backend.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Repositories\obj\Debug\net8.0\Backend.Repositories.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Repositories\obj\Debug\net8.0\Backend.Repositories.AssemblyInfo.cs
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Repositories\obj\Debug\net8.0\Backend.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Repositories\obj\Debug\net8.0\Backend.Repositories.sourcelink.json
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Repositories\obj\Debug\net8.0\Backend.Repositories.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Repositories\obj\Debug\net8.0\refint\Backend.Repositories.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Repositories\obj\Debug\net8.0\Backend.Repositories.pdb
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Repositories\obj\Debug\net8.0\ref\Backend.Repositories.dll

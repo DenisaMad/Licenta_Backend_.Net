@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.BusinessLogic\bin\Debug\net8.0\Backend.BusinessLogic.deps.json
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.BusinessLogic\bin\Debug\net8.0\Backend.BusinessLogic.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.BusinessLogic\bin\Debug\net8.0\Backend.BusinessLogic.pdb
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.BusinessLogic\obj\Debug\net8.0\Backend.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.BusinessLogic\obj\Debug\net8.0\Backend.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.BusinessLogic\obj\Debug\net8.0\Backend.BusinessLogic.AssemblyInfo.cs
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.BusinessLogic\obj\Debug\net8.0\Backend.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.BusinessLogic\obj\Debug\net8.0\Backend.BusinessLogic.sourcelink.json
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.BusinessLogic\obj\Debug\net8.0\Backend.BusinessLogic.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.BusinessLogic\obj\Debug\net8.0\refint\Backend.BusinessLogic.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.BusinessLogic\obj\Debug\net8.0\Backend.BusinessLogic.pdb
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.BusinessLogic\obj\Debug\net8.0\ref\Backend.BusinessLogic.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.BusinessLogic\obj\Debug\net8.0\Backend.BusinessLogic.csproj.AssemblyReference.cache

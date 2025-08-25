@@ -7,12 +7,21 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="12.0.0" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.1" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="12.0.0" />
+    <PackageReference Include="MediatR" Version="13.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Backend.BusinessLogic\Backend.BusinessLogic.csproj" />
+    <ProjectReference Include="..\Backend.CommonDomain\Backend.CommonDomain.csproj" />
+    <ProjectReference Include="..\Backend.DataAbstraction\Backend.DataAbstraction.csproj" />
     <ProjectReference Include="..\Backend.Database\Backend.Database.csproj" />
     <ProjectReference Include="..\Backend.Domain\Backend.Domain.csproj" />
+    <ProjectReference Include="..\Backend.Repositories\Backend.Repositories.csproj" />
+    <ProjectReference Include="..\Backend.Services\Backend.Services.csproj" />
   </ItemGroup>
 
 </Project>

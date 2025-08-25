@@ -1,4 +1,16 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\Backend",
+    "\\Backend\\Backend.BusinessLogic",
+    "\\Backend\\Backend.DataAbstraction",
+    "\\Backend\\Backend.Database",
+    "\\Backend\\Backend.Domain",
+    "\\Backend\\Backend.Repositories",
+    "\\Backend\\Backend.Services",
+    "\\Backend\\Backend\\Controllers"
+  ],
+  "SelectedNode": "\\Backend",
   "PreviewInSolutionExplorer": false
 }

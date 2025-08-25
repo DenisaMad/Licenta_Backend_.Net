@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Services\bin\Debug\net8.0\Backend.Services.deps.json
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Services\bin\Debug\net8.0\Backend.Services.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Services\bin\Debug\net8.0\Backend.Services.pdb
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Services\obj\Debug\net8.0\Backend.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Services\obj\Debug\net8.0\Backend.Services.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Services\obj\Debug\net8.0\Backend.Services.AssemblyInfo.cs
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Services\obj\Debug\net8.0\Backend.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Services\obj\Debug\net8.0\Backend.Services.sourcelink.json
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Services\obj\Debug\net8.0\Backend.Services.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Services\obj\Debug\net8.0\refint\Backend.Services.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Services\obj\Debug\net8.0\Backend.Services.pdb
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Services\obj\Debug\net8.0\ref\Backend.Services.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Services\obj\Debug\net8.0\Backend.Services.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Services\bin\Debug\net8.0\Backend.Domain.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Services\bin\Debug\net8.0\Backend.Domain.pdb
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Services\obj\Debug\net8.0\Backend..9453AF4F.Up2Date

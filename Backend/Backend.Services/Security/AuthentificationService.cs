@@ -1,20 +1,14 @@
 ﻿using Backend.DataAbstraction.Security;
-using Backend.Domain.User;
 using Microsoft.IdentityModel.Tokens;
-using System;
-using System.Collections.Generic;
 using System.ComponentModel;
 using System.IdentityModel.Tokens.Jwt;
-using System.Linq;
 using System.Reflection;
 using System.Security.Claims;
-using System.Security.Cryptography;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Backend.Services.Security
 {
-    public class AuthtentificationService: IAuthtentificationServices
+  public class AuthentificationService: IAuthentificationService
     {
         public string GenerateAccessToken(string email, string name, Enum role)
         {
@@ -27,7 +21,7 @@ namespace Backend.Services.Security
                 claims: new List<Claim>()
                 { 
                     new Claim("email", email),
-                    new Claim("name", name),
+                    new Claim("name", name ?? string.Empty),
                     new Claim("role", GetDescription(role)),
                     new Claim("tokenType", "Access" )
                 },
@@ -39,7 +33,6 @@ namespace Backend.Services.Security
 
         public string GenerateRefreshToken()
         {
-            //cheia si creds trebuie generat doar o data , facem un consoleapp unde rulam linia 41 si 42 si afisam pe ecran key si creds le copiem valorile si inlocuim cu valorile din key si creds
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("bahdoiajfncajnfhoijnaoifanif131jdangsfdsbahdoiajfncajnfhoijnaoifanif131jdangsfdsbahdoiajfncajnfhoijnaoifanif131jdangsfds"));
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
 

@@ -1,13 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Backend.DataAbstraction
+﻿namespace Backend.DataAbstraction
 {
-    public enum EUserRole
+  public enum EUserRole
     {
         /*[Description("Client")]
         client,
@@ -19,7 +12,7 @@ namespace Backend.DataAbstraction
     }
     public interface IUser
     {
-        public string? Id { get; set; } = null;
+        public string? Id { get; set; }
         public string Name { get; set; }
         public string Email { get; set; }
         public string Password { get; set; }

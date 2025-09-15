@@ -33,10 +33,7 @@
           "MongoDB.Bson": "3.4.0"
         },
         "runtime": {
-          "Backend.Domain.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Backend.Domain.dll": {}
         }
       }
     }

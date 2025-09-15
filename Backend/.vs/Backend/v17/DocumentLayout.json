@@ -1,85 +1,153 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\",
+  "WorkspaceRootPath": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.dataabstraction\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|solutionrelative:backend.dataabstraction\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.services\\security\\authentificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\security\\authentificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.dataabstraction\\security\\imongodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|solutionrelative:backend.dataabstraction\\security\\imongodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.services\\security\\authtentificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\security\\authtentificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.services\\security\\hashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\security\\hashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.domain\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.dataabstraction\\security\\iauthtentificationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|solutionrelative:backend.dataabstraction\\security\\iauthtentificationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.dataabstraction\\security\\ihashingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|solutionrelative:backend.dataabstraction\\security\\ihashingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.services\\backend.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\backend.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\createuser\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\createuser\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\createuser\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\createuser\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\replaceuser\\replaceuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\replaceuser\\replaceuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\loginuser\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\loginuser\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\loginuser\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\deleteuser\\deleteuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAF6731-D362-4735-AB17-6FCC320ED45A}|Backend.Database\\Backend.Database.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.database\\mongodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AAF6731-D362-4735-AB17-6FCC320ED45A}|Backend.Database\\Backend.Database.csproj|solutionrelative:backend.database\\mongodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.dataabstraction\\security\\imongodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|solutionrelative:backend.dataabstraction\\security\\imongodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\deleteuser\\deleteuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\deleteuser\\deleteuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\loginuser\\loginuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\deleteuser\\deleteuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\deleteuser\\deleteuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\loginuser\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\loginuser\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.dataabstraction\\security\\iauthentificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|solutionrelative:backend.dataabstraction\\security\\iauthentificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\loginuser\\loginuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\loginuser\\loginuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\loginuser\\loginuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\loginuser\\loginuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\deleteuser\\deleteuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\getusers\\getusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\getusers\\getusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\getusers\\getusersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\getusers\\getusersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\getusers\\getusersvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\getusers\\getusersvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\getusers\\getusersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\getusers\\getusersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\updateuser\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\updateuser\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\updateuser\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\updateuser\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\updateuser\\updateuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\updateuser\\updateuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\updateuser\\updateuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\updateuser\\updateuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\deleteuser\\deleteuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\deleteuser\\deleteuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\deleteuser\\deleteuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\deleteuser\\deleteuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\replaceuser\\replaceuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\createuser\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\createuser\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\createuser\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\createuser\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.services\\security\\hashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\security\\hashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.dataabstraction\\security\\ihashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|solutionrelative:backend.dataabstraction\\security\\ihashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.domain\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\createuser\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\createuser\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.dataabstraction\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|solutionrelative:backend.dataabstraction\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.services\\backend.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\backend.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\replaceuser\\replaceuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\replaceuser\\replaceuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\replaceuser\\replaceuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\replaceuser\\replaceuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\replaceuser\\replaceuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\replaceuser\\replaceuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\replaceuser\\replaceuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend\\dependecyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\fodor\\desktop\\licenta_backend_.net\\backend\\backend\\dependecyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\dependecyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -90,181 +158,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 29,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\User.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\User.cs",
               "RelativeDocumentMoniker": "Backend.Domain\\User\\User.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\User.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\User.cs",
               "RelativeToolTip": "Backend.Domain\\User\\User.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAVAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-02T05:22:25.944Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IUser.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\IUser.cs",
-              "RelativeDocumentMoniker": "Backend.DataAbstraction\\IUser.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\IUser.cs",
-              "RelativeToolTip": "Backend.DataAbstraction\\IUser.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwA8AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T16:28:02.873Z",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\appsettings.json",
+              "RelativeToolTip": "Backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-15T15:50:47.174Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IMongoDatabase.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IMongoDatabase.cs",
-              "RelativeDocumentMoniker": "Backend.DataAbstraction\\Security\\IMongoDatabase.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IMongoDatabase.cs",
-              "RelativeToolTip": "Backend.DataAbstraction\\Security\\IMongoDatabase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T16:26:06.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthtentificationService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\AuthtentificationService.cs",
-              "RelativeDocumentMoniker": "Backend.Services\\Security\\AuthtentificationService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\AuthtentificationService.cs",
-              "RelativeToolTip": "Backend.Services\\Security\\AuthtentificationService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T16:19:59.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HashingService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\HashingService.cs",
-              "RelativeDocumentMoniker": "Backend.Services\\Security\\HashingService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\HashingService.cs",
-              "RelativeToolTip": "Backend.Services\\Security\\HashingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T16:17:24.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IAuthtentificationServices.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IAuthtentificationServices.cs",
-              "RelativeDocumentMoniker": "Backend.DataAbstraction\\Security\\IAuthtentificationServices.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IAuthtentificationServices.cs",
-              "RelativeToolTip": "Backend.DataAbstraction\\Security\\IAuthtentificationServices.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T16:18:50.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IHashingServices.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IHashingServices.cs",
-              "RelativeDocumentMoniker": "Backend.DataAbstraction\\Security\\IHashingServices.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IHashingServices.cs",
-              "RelativeToolTip": "Backend.DataAbstraction\\Security\\IHashingServices.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T16:18:32.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Backend\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Backend\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAkwBsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T15:31:51.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Backend.Services",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Backend.Services.csproj",
-              "RelativeDocumentMoniker": "Backend.Services\\Backend.Services.csproj",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Backend.Services.csproj",
-              "RelativeToolTip": "Backend.Services\\Backend.Services.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-19T16:17:03.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CreateUserResponse.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserResponse.cs",
-              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserResponse.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserResponse.cs",
-              "RelativeToolTip": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:11:45.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CreateUserHandler.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserHandler.cs",
-              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserHandler.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserHandler.cs",
-              "RelativeToolTip": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:11:36.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ReplaceUserHandler.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserHandler.cs",
-              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserHandler.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserHandler.cs",
-              "RelativeToolTip": "Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:11:26.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LoginUserHandler.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserHandler.cs",
-              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserHandler.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserHandler.cs",
-              "RelativeToolTip": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:11:25.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -272,98 +192,448 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateUserValidator.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserValidator.cs",
-              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserValidator.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserValidator.cs",
-              "RelativeToolTip": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T08:12:47.054Z",
+              "WhenOpened": "2025-06-26T15:31:51.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DeleteUserHandler.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserHandler.cs",
-              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserHandler.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserHandler.cs",
-              "RelativeToolTip": "Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "LoginUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserHandler.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserHandler.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserHandler.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserHandler.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAjwCcAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:11:23.21Z",
+              "WhenOpened": "2025-08-19T15:11:25.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIAwwB0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:31:25.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAuthentificationService.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IAuthentificationService.cs",
+              "RelativeDocumentMoniker": "Backend.DataAbstraction\\Security\\IAuthentificationService.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IAuthentificationService.cs",
+              "RelativeToolTip": "Backend.DataAbstraction\\Security\\IAuthentificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T16:18:50.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserHandler.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserHandler.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserHandler.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T15:11:23.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserHandler.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserHandler.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserHandler.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserHandler.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwCAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T15:11:36.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMongoDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IMongoDataBase.cs",
+              "RelativeDocumentMoniker": "Backend.DataAbstraction\\Security\\IMongoDataBase.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IMongoDataBase.cs",
+              "RelativeToolTip": "Backend.DataAbstraction\\Security\\IMongoDataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T16:26:06.416Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MongoDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Database\\MongoDataBase.cs",
+              "RelativeDocumentMoniker": "Backend.Database\\MongoDataBase.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Database\\MongoDataBase.cs",
+              "RelativeToolTip": "Backend.Database\\MongoDataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:32:44.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthentificationService.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\AuthentificationService.cs",
+              "RelativeDocumentMoniker": "Backend.Services\\Security\\AuthentificationService.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\AuthentificationService.cs",
+              "RelativeToolTip": "Backend.Services\\Security\\AuthentificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T16:33:27.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "LoginUserValidator.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserValidator.cs",
-              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserValidator.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserValidator.cs",
-              "RelativeToolTip": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Title": "GetUsersHandler.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\GetUsers\\GetUsersHandler.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\GetUsers\\GetUsersHandler.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\GetUsers\\GetUsersHandler.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\GetUsers\\GetUsersHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T08:14:42.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T16:10:27.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ReplaceUserRequest.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserRequest.cs",
-              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserRequest.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserRequest.cs",
-              "RelativeToolTip": "Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T06:37:46.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T16:35:07.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ReplaceUserValidator.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserValidator.cs",
-              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserValidator.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserValidator.cs",
-              "RelativeToolTip": "Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserValidator.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "LoginUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserRequest.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserRequest.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserRequest.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T08:15:38.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T16:14:59.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserResponse.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserResponse.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserResponse.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T16:15:16.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserRequest.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserRequest.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserRequest.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:55:45.385Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "DeleteUserValidator.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserValidator.cs",
-              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserValidator.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserValidator.cs",
-              "RelativeToolTip": "Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Title": "GetUsersResponse.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\GetUsers\\GetUsersResponse.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\GetUsers\\GetUsersResponse.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\GetUsers\\GetUsersResponse.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\GetUsers\\GetUsersResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T08:13:46.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T16:10:04.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetUsersValidator.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\GetUsers\\GetUsersValidator.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\GetUsers\\GetUsersValidator.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\GetUsers\\GetUsersValidator.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\GetUsers\\GetUsersValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T16:10:16.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetUsersRequest.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\GetUsers\\GetUsersRequest.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\GetUsers\\GetUsersRequest.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\GetUsers\\GetUsersRequest.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\GetUsers\\GetUsersRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T16:09:53.153Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "DependecyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\DependecyInjection.cs",
-              "RelativeDocumentMoniker": "Backend\\DependecyInjection.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\DependecyInjection.cs",
-              "RelativeToolTip": "Backend\\DependecyInjection.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAA1wCcAAAAAAAAAAAAAAA==",
+              "Title": "UpdateUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserHandler.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserHandler.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserHandler.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T07:42:31.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T16:00:52.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserRequest.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserRequest.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T16:00:15.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserValidator.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserValidator.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserValidator.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T16:00:40.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserValidator.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserValidator.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserValidator.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T08:14:42.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserResponse.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserResponse.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserResponse.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T16:00:28.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DeleteUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserResponse.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserResponse.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserResponse.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:58:24.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserRequest.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserRequest.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserRequest.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:23:20.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HashingService.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\HashingService.cs",
+              "RelativeDocumentMoniker": "Backend.Services\\Security\\HashingService.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\HashingService.cs",
+              "RelativeToolTip": "Backend.Services\\Security\\HashingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T16:17:24.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DeleteUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserValidator.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserValidator.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserValidator.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T08:13:46.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IHashingService.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IHashingService.cs",
+              "RelativeDocumentMoniker": "Backend.DataAbstraction\\Security\\IHashingService.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IHashingService.cs",
+              "RelativeToolTip": "Backend.DataAbstraction\\Security\\IHashingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T16:18:32.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserResponse.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserResponse.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserResponse.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T15:11:45.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserValidator.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserValidator.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserValidator.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T08:12:47.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\IUser.cs",
+              "RelativeDocumentMoniker": "Backend.DataAbstraction\\IUser.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\IUser.cs",
+              "RelativeToolTip": "Backend.DataAbstraction\\IUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T16:28:02.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ReplaceUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserHandler.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserHandler.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserHandler.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T15:11:26.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Backend.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Backend.Services.csproj",
+              "RelativeDocumentMoniker": "Backend.Services\\Backend.Services.csproj",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Backend.Services.csproj",
+              "RelativeToolTip": "Backend.Services\\Backend.Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-19T16:17:03.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ReplaceUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserRequest.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserRequest.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserRequest.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T06:37:46.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ReplaceUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserValidator.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserValidator.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserValidator.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T08:15:38.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DependecyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\DependecyInjection.cs",
+              "RelativeDocumentMoniker": "Backend\\DependecyInjection.cs",
+              "ToolTip": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\DependecyInjection.cs",
+              "RelativeToolTip": "Backend\\DependecyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T07:42:31.443Z"
             }
           ]
         }

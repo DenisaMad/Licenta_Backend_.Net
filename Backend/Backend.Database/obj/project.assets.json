@@ -210,10 +210,24 @@
           "lib/net7.0/ZstdSharp.dll": {}
         }
       },
+      "Backend.DataAbstraction/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MongoDB.Driver": "3.4.0"
+        },
+        "compile": {
+          "bin/placeholder/Backend.DataAbstraction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Backend.DataAbstraction.dll": {}
+        }
+      },
       "Backend.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "Backend.DataAbstraction": "1.0.0",
           "MongoDB.Bson": "3.4.0"
         },
         "compile": {
@@ -605,6 +619,11 @@
         "zstdsharp.port.nuspec"
       ]
     },
+    "Backend.DataAbstraction/1.0.0": {
+      "type": "project",
+      "path": "../Backend.DataAbstraction/Backend.DataAbstraction.csproj",
+      "msbuildProject": "../Backend.DataAbstraction/Backend.DataAbstraction.csproj"
+    },
     "Backend.Domain/1.0.0": {
       "type": "project",
       "path": "../Backend.Domain/Backend.Domain.csproj",
@@ -613,28 +632,29 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Backend.DataAbstraction >= 1.0.0",
       "Backend.Domain >= 1.0.0",
       "MongoDB.Driver >= 3.4.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Users\\fodor\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Database\\Backend.Database.csproj",
+      "projectUniqueName": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Database\\Backend.Database.csproj",
       "projectName": "Backend.Database",
-      "projectPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Database\\Backend.Database.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Database\\obj\\",
+      "projectPath": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Database\\Backend.Database.csproj",
+      "packagesPath": "C:\\Users\\fodor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Database\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fodor\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -643,14 +663,21 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://proget.cbwg.local/nuget/DVSE": {},
+        "https://proget.cbwg.local/nuget/DevServices/v3/index.json": {},
+        "https://proget.cbwg.local/nuget/Next/": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj"
+            "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Backend.DataAbstraction.csproj": {
+              "projectPath": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Backend.DataAbstraction.csproj"
+            },
+            "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj": {
+              "projectPath": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj"
             }
           }
         }
@@ -664,8 +691,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -692,8 +718,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://proget.cbwg.local/nuget/DVSE."
+    }
+  ]
 }

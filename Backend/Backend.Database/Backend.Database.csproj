@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Backend.DataAbstraction\Backend.DataAbstraction.csproj" />
     <ProjectReference Include="..\Backend.Domain\Backend.Domain.csproj" />
   </ItemGroup>
 

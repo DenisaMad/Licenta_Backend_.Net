@@ -307,14 +307,13 @@
       },
       "Backend.BusinessLogic/1.0.0": {
         "dependencies": {
+          "Backend.DataAbstraction": "1.0.0",
+          "Backend.Domain": "1.0.0",
           "FluentValidation": "12.0.0",
           "MediatR": "13.0.0"
         },
         "runtime": {
-          "Backend.BusinessLogic.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Backend.BusinessLogic.dll": {}
         }
       },
       "Backend.CommonDomain/1.0.0": {
@@ -322,30 +321,25 @@
           "Backend.Domain": "1.0.0"
         },
         "runtime": {
-          "Backend.CommonDomain.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Backend.CommonDomain.dll": {}
         }
       },
       "Backend.DataAbstraction/1.0.0": {
+        "dependencies": {
+          "MongoDB.Driver": "3.4.0"
+        },
         "runtime": {
-          "Backend.DataAbstraction.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Backend.DataAbstraction.dll": {}
         }
       },
       "Backend.Database/1.0.0": {
         "dependencies": {
+          "Backend.DataAbstraction": "1.0.0",
           "Backend.Domain": "1.0.0",
           "MongoDB.Driver": "3.4.0"
         },
         "runtime": {
-          "Backend.Database.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Backend.Database.dll": {}
         }
       },
       "Backend.Domain/1.0.0": {
@@ -353,31 +347,22 @@
           "MongoDB.Bson": "3.4.0"
         },
         "runtime": {
-          "Backend.Domain.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Backend.Domain.dll": {}
         }
       },
       "Backend.Repositories/1.0.0": {
         "runtime": {
-          "Backend.Repositories.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Backend.Repositories.dll": {}
         }
       },
       "Backend.Services/1.0.0": {
         "dependencies": {
-          "Backend.Domain": "1.0.0",
+          "Backend.DataAbstraction": "1.0.0",
           "Microsoft.AspNetCore.Cryptography.KeyDerivation": "9.0.7",
           "System.IdentityModel.Tokens.Jwt": "8.13.0"
         },
         "runtime": {
-          "Backend.Services.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Backend.Services.dll": {}
         }
       }
     }

@@ -1,15 +1,11 @@
 ﻿using Backend.DataAbstraction.Security;
 using Microsoft.AspNetCore.Cryptography.KeyDerivation;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Backend.Services.Security
 {
-    public class HashingService: IHashingServices
+  public class HashingService: IHashingService
     {
         public string HashPassword(string password, string salt)
         {

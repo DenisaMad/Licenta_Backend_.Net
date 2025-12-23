@@ -28,6 +28,7 @@ namespace Backend.Domain.User
     public string RefreshToken { get; set; }
 
     public bool ActiveAccount { get; set; } = false;
+    public string ActiveAccountCode { get; set; }
 
     public List<GeneratedToken> GeneratedTokens { get; set; }
   }

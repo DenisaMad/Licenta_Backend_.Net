@@ -24,12 +24,15 @@ namespace Backend.BusinessLogic.User.CreateUser
       var userFromDB = await collection.Find(filter).FirstOrDefaultAsync();
       if (userFromDB == null)
       {
+        string code = this.hashingServices.GenerateRandomCode();
         userFromDB = new Domain.User.User();
         userFromDB.Email = request.Email;
         userFromDB.Salt = this.hashingServices.GenerateSalt();
         userFromDB.Password = this.hashingServices.HashPassword(request.Password, userFromDB.Salt);
+        userFromDB.ActiveAccountCode = code;
         await collection.InsertOneAsync(userFromDB);
-        this.emailSender.SendVerificationCode(this.hashingServices.GenerateRandomCode(), userFromDB.Email);
+        this.emailSender.SendEmail(userFromDB.Email,"Verification code " + code);
+
         return new CreateUserResponse
         {
           Message = "Success",

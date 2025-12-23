@@ -1,22 +1,22 @@
-﻿using Backend.DataAbstraction.Security;
+﻿using Backend.DataAbstraction.Database;
+using Backend.DataAbstraction.Security;
 using MongoDB.Driver;
 
 namespace Backend.Database
 {
   public class MongoDataBase : IMongoDataBase
   {
-    private readonly string Connection = "mongodb+srv://Admin:23GMxBrkQnf9vta@cluster0.bpvikfn.mongodb.net/";
-    public string Database = "LicentaDB";
+    
     private readonly IMongoDatabase mongoDatabase;
-    public MongoDataBase()
+    public MongoDataBase(IDatabaseSettings settings)
     {
-      var mongoClient = new MongoClient(Connection);
-      this.mongoDatabase = mongoClient.GetDatabase(Database);
+      var mongoClient = new MongoClient(settings.ConnectionString);
+      this.mongoDatabase = mongoClient.GetDatabase(settings.DatabaseName);
     }
 
     public IMongoCollection<T> GetCollection<T>() where T : new()
     {
-      return this.mongoDatabase.GetCollection<T>(nameof(T));
+      return this.mongoDatabase.GetCollection<T>(typeof(T).Name);
     }
   }
 }

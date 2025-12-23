@@ -29,3 +29,8 @@ C:\Users\fodor\Desktop\Licenta_Backend_.Net\Backend\Backend.BusinessLogic\obj\De
 C:\Users\fodor\Desktop\Licenta_Backend_.Net\Backend\Backend.BusinessLogic\obj\Debug\net8.0\ref\Backend.BusinessLogic.dll
 C:\Users\fodor\Desktop\Licenta_Backend_.Net\Backend\Backend.BusinessLogic\bin\Debug\net8.0\Backend.DataAbstraction.dll
 C:\Users\fodor\Desktop\Licenta_Backend_.Net\Backend\Backend.BusinessLogic\bin\Debug\net8.0\Backend.DataAbstraction.pdb
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.BusinessLogic\bin\Debug\net8.0\Backend.DataAbstraction.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.BusinessLogic\bin\Debug\net8.0\Backend.Domain.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.BusinessLogic\bin\Debug\net8.0\Backend.DataAbstraction.pdb
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.BusinessLogic\bin\Debug\net8.0\Backend.Domain.pdb
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.BusinessLogic\obj\Debug\net8.0\Backend..474D6A89.Up2Date

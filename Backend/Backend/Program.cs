@@ -1,5 +1,9 @@
+using Backend.DataAbstraction;
+using Backend.DataAbstraction.BearerTokens;
+using Backend.DataAbstraction.Database;
 using Backend.DataAbstraction.Security;
 using Backend.Database;
+using Backend.Services.Database;
 using Backend.Services.Security;
 using FluentValidation.AspNetCore;
 using InterviewCrusherAdmin;
@@ -9,11 +13,22 @@ internal class Program
 {
   private static void Main(string[] args)
   {
-    var builder = WebApplication.CreateBuilder(args);
+        var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
 
-    // Add services to the container.
+        var builder = WebApplication.CreateBuilder(args);
 
-    builder.Services.AddControllers();
+        // Add services to the container.
+
+        builder.Services.AddCors(options =>
+        {
+            options.AddPolicy(MyAllowSpecificOrigins, policy =>
+                policy
+                    .AllowAnyOrigin()
+                    .AllowAnyMethod()
+                    .AllowAnyHeader()
+            );
+        });
+        builder.Services.AddControllers();
     // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
     builder.Services.AddEndpointsApiExplorer();
     builder.Services.AddSwaggerGen();
@@ -25,19 +40,54 @@ internal class Program
       fv.AutomaticValidationEnabled = true;
     });
 
-    builder.Services.AddSingleton<IMongoDataBase, MongoDataBase>();
-    builder.Services.AddScoped<IHashingService, HashingService>();
-    builder.Services.AddScoped<IAuthentificationService, AuthentificationService>();
-    var app = builder.Build();
+        builder.Services.AddScoped<IHashingSettings, HashingSettings>(sp =>
+        {
+            var config = sp.GetRequiredService<IConfiguration>();
+            var hashingService = new HashingSettings();
+            config.GetSection("HashingSettings").Bind(hashingService);
+            return hashingService;
+        });
+        builder.Services.AddScoped<IHashingService, HashingService>();
+   
+        builder.Services.AddScoped<IAuthentificationService, AuthentificationService>();
+        builder.Services.AddSingleton<IDatabaseSettings, DatabaseSettings>(sp =>
+        {
+            var config = sp.GetRequiredService<IConfiguration>();
+            var databaseService = new DatabaseSettings();
+            config.GetSection("DatabaseSettings").Bind(databaseService);
+            return databaseService;
+        });
 
-    // Configure the HTTP request pipeline.
-    if (app.Environment.IsDevelopment())
+        builder.Services.AddSingleton<IMongoDataBase, MongoDataBase>();
+
+        builder.Services.AddScoped<IEmailConfig, EmailConfig>(sp =>
+        {
+            var config = sp.GetRequiredService<IConfiguration>();
+            var emailConfig = new EmailConfig();
+            config.GetSection("EmailConfig").Bind(emailConfig);
+            return emailConfig;
+        });
+
+        builder.Services.AddScoped<IEmailSender, EmailSender>();
+
+        builder.Services.AddScoped<IAuthTokensService, AuthTokensService>();
+
+        builder.Services.AddScoped<IBearerTokenService, BearerTokenService>();
+
+
+
+        var app = builder.Build();
+
+        
+        // Configure the HTTP request pipeline.
+        if (app.Environment.IsDevelopment())
     {
       app.UseSwagger();
       app.UseSwaggerUI();
     }
 
-    app.UseHttpsRedirection();
+        app.UseCors(MyAllowSpecificOrigins);
+        app.UseHttpsRedirection();
 
     app.UseAuthorization();
 

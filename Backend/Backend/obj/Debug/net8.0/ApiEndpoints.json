@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "Backend.Controllers.MedicineController",
+    "Method": "RegisterMedicine",
+    "RelativePath": "Medicine/{name}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend.Controllers.PhotoController",
+    "Method": "UploadPhoto",
+    "RelativePath": "Photo/photo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Backend.Controllers.UsersController",
     "Method": "GetUsers",
     "RelativePath": "Users",
@@ -7,44 +39,24 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.List\u00601[[Backend.Domain.User.User, Backend.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ],
+    "ReturnTypes": [],
     "EndpointName": "Users"
   },
   {
     "ContainingType": "Backend.Controllers.UsersController",
-    "Method": "PostUsers",
+    "Method": "CreateUser",
     "RelativePath": "Users",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "user",
-        "Type": "Backend.Domain.User.User",
+        "Name": "request",
+        "Type": "Backend.BusinessLogic.User.CreateUser.CreateUserRequest",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.String",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ],
+    "ReturnTypes": [],
     "EndpointName": "CreateUser"
   },
   {
@@ -56,76 +68,45 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "user",
-        "Type": "Backend.Domain.User.User",
+        "Name": "request",
+        "Type": "Backend.BusinessLogic.User.UpdateUser.UpdateUserRequest",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.String",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ],
+    "ReturnTypes": [],
     "EndpointName": "UpdateUser"
   },
   {
     "ContainingType": "Backend.Controllers.UsersController",
-    "Method": "DeleteUsers",
-    "RelativePath": "Users",
+    "Method": "ActivateUserAccountViaCode",
+    "RelativePath": "Users/ActivateAccount",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Backend.BusinessLogic.User.ActivateUserAccountViaCode.ActivateUserAccountViaCodeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend.Controllers.UsersController",
+    "Method": "DeleteUser",
+    "RelativePath": "Users/DeleteUser/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "Id",
-        "Type": "System.String",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.String",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ],
-    "EndpointName": "DeleteUser"
-  },
-  {
-    "ContainingType": "Backend.Controllers.UsersController",
-    "Method": "GetUsersByEmail",
-    "RelativePath": "Users/GetUserByEmail/{email}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "email",
+        "Name": "id",
         "Type": "System.String",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "Backend.Domain.User.User",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "Backend.Controllers.UsersController",
@@ -136,22 +117,12 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "loginUserRequest",
-        "Type": "Backend.CommonDomain.Users.LoginUserRequest",
+        "Name": "request",
+        "Type": "Backend.BusinessLogic.User.LoginUser.LoginUserRequest",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.String",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "Backend.Controllers.WeatherForecastController",

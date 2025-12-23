@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Backend.BusinessLogic.User.ActivateUserAccountViaCode
 {
-  internal class ActivateUserAccountViaCodeResponse
+  public class ActivateUserAccountViaCodeResponse
   {
+        public bool Success { get; set; }
+        public string Message {  get; set; }
   }
 }

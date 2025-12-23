@@ -1,5 +1,4 @@
-﻿using Backend.DataAbstraction.BearerTokens;
-
+﻿
 namespace Backend.Domain.User
 {
   public class GeneratedToken

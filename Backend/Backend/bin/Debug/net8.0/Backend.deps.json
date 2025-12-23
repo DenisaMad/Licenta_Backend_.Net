@@ -221,6 +221,17 @@
           }
         }
       },
+      "SFX.Random.CSharp/1.0.35": {
+        "dependencies": {
+          "System.Memory": "4.5.5"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Random.CSharp.dll": {
+            "assemblyVersion": "1.0.35.0",
+            "fileVersion": "1.0.35.0"
+          }
+        }
+      },
       "SharpCompress/0.30.1": {
         "runtime": {
           "lib/net5.0/SharpCompress.dll": {
@@ -313,7 +324,10 @@
           "MediatR": "13.0.0"
         },
         "runtime": {
-          "Backend.BusinessLogic.dll": {}
+          "Backend.BusinessLogic.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Backend.CommonDomain/1.0.0": {
@@ -321,15 +335,22 @@
           "Backend.Domain": "1.0.0"
         },
         "runtime": {
-          "Backend.CommonDomain.dll": {}
+          "Backend.CommonDomain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Backend.DataAbstraction/1.0.0": {
         "dependencies": {
+          "Backend.Domain": "1.0.0",
           "MongoDB.Driver": "3.4.0"
         },
         "runtime": {
-          "Backend.DataAbstraction.dll": {}
+          "Backend.DataAbstraction.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Backend.Database/1.0.0": {
@@ -339,7 +360,10 @@
           "MongoDB.Driver": "3.4.0"
         },
         "runtime": {
-          "Backend.Database.dll": {}
+          "Backend.Database.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Backend.Domain/1.0.0": {
@@ -347,22 +371,33 @@
           "MongoDB.Bson": "3.4.0"
         },
         "runtime": {
-          "Backend.Domain.dll": {}
+          "Backend.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Backend.Repositories/1.0.0": {
         "runtime": {
-          "Backend.Repositories.dll": {}
+          "Backend.Repositories.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Backend.Services/1.0.0": {
         "dependencies": {
           "Backend.DataAbstraction": "1.0.0",
+          "Backend.Domain": "1.0.0",
           "Microsoft.AspNetCore.Cryptography.KeyDerivation": "9.0.7",
+          "SFX.Random.CSharp": "1.0.35",
           "System.IdentityModel.Tokens.Jwt": "8.13.0"
         },
         "runtime": {
-          "Backend.Services.dll": {}
+          "Backend.Services.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -540,6 +575,13 @@
       "sha512": "sha512-+8vGdlbbzfPfQzCI00nPX59vH+5Nfumb2lyXf7xdIcAa05JPBdXFc/vWw0rPQOqIWYWfTmvQsxUgUXyzk0AKGw==",
       "path": "mongodb.driver/3.4.0",
       "hashPath": "mongodb.driver.3.4.0.nupkg.sha512"
+    },
+    "SFX.Random.CSharp/1.0.35": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8a+XVe3D0rFhbDd6SLMtydxVny4h/RYqClPuWbO7EaXtJh2vmvQ0PE5ElXkwRYfOgWCB00aZXc5AZAPxXRCK7A==",
+      "path": "sfx.random.csharp/1.0.35",
+      "hashPath": "sfx.random.csharp.1.0.35.nupkg.sha512"
     },
     "SharpCompress/0.30.1": {
       "type": "package",

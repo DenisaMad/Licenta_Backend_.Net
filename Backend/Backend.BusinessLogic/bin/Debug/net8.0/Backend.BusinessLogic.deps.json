@@ -234,10 +234,14 @@
       },
       "Backend.DataAbstraction/1.0.0": {
         "dependencies": {
+          "Backend.Domain": "1.0.0",
           "MongoDB.Driver": "3.4.0"
         },
         "runtime": {
-          "Backend.DataAbstraction.dll": {}
+          "Backend.DataAbstraction.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Backend.Domain/1.0.0": {
@@ -245,7 +249,10 @@
           "MongoDB.Bson": "3.4.0"
         },
         "runtime": {
-          "Backend.Domain.dll": {}
+          "Backend.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

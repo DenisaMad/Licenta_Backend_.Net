@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\Backend.BusinessLogic.csproj": {}
+    "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\Backend.BusinessLogic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\Backend.BusinessLogic.csproj": {
+    "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\Backend.BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\Backend.BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\Backend.BusinessLogic.csproj",
         "projectName": "Backend.BusinessLogic",
-        "projectPath": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\Backend.BusinessLogic.csproj",
-        "packagesPath": "C:\\Users\\fodor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\Backend.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\fodor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,21 +26,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://proget.cbwg.local/nuget/DVSE": {},
-          "https://proget.cbwg.local/nuget/DevServices/v3/index.json": {},
-          "https://proget.cbwg.local/nuget/Next/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Backend.DataAbstraction.csproj": {
-                "projectPath": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Backend.DataAbstraction.csproj"
+              "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Backend.DataAbstraction.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Backend.DataAbstraction.csproj"
               },
-              "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj": {
-                "projectPath": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj"
+              "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj"
               }
             }
           }
@@ -54,7 +50,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -85,24 +82,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Backend.DataAbstraction.csproj": {
+    "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Backend.DataAbstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Backend.DataAbstraction.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Backend.DataAbstraction.csproj",
         "projectName": "Backend.DataAbstraction",
-        "projectPath": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Backend.DataAbstraction.csproj",
-        "packagesPath": "C:\\Users\\fodor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Backend.DataAbstraction.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\fodor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -111,16 +108,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://proget.cbwg.local/nuget/DVSE": {},
-          "https://proget.cbwg.local/nuget/DevServices/v3/index.json": {},
-          "https://proget.cbwg.local/nuget/Next/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -132,7 +129,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -159,24 +157,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj": {
+    "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj",
         "projectName": "Backend.Domain",
-        "projectPath": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj",
-        "packagesPath": "C:\\Users\\fodor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\fodor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -185,20 +183,12 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://proget.cbwg.local/nuget/DVSE": {},
-          "https://proget.cbwg.local/nuget/DevServices/v3/index.json": {},
-          "https://proget.cbwg.local/nuget/Next/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Backend.DataAbstraction.csproj": {
-                "projectPath": "C:\\Users\\fodor\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Backend.DataAbstraction.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -210,7 +200,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -237,7 +228,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

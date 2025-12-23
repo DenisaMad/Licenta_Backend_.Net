@@ -30,3 +30,5 @@ C:\Users\fodor\Desktop\Licenta_Backend_.Net\Backend\Backend.Services\bin\Debug\n
 C:\Users\fodor\Desktop\Licenta_Backend_.Net\Backend\Backend.Services\bin\Debug\net8.0\Backend.DataAbstraction.pdb
 C:\Users\fodor\Desktop\Licenta_Backend_.Net\Backend\Backend.Services\obj\Debug\net8.0\Backend..9453AF4F.Up2Date
 C:\Users\fodor\Desktop\Licenta_Backend_.Net\Backend\Backend.Services\obj\Debug\net8.0\ref\Backend.Services.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Services\bin\Debug\net8.0\Backend.DataAbstraction.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.Services\bin\Debug\net8.0\Backend.DataAbstraction.pdb

@@ -1,4 +1,6 @@
-﻿namespace Backend.DataAbstraction.BearerTokens
+﻿using Backend.Domain.User;
+
+namespace Backend.DataAbstraction.BearerTokens
 {
   public interface IAuthTokensService
   {

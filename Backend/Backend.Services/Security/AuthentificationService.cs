@@ -10,6 +10,11 @@ namespace Backend.Services.Security
 {
   public class AuthentificationService: IAuthentificationService
     {
+        public Task<bool> CheckActive(string userEmail)
+        {
+            throw new NotImplementedException();
+        }
+
         public string GenerateAccessToken(string email, string name, Enum role)
         {
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("bahdoiajfncajnfhoijnaoifanif131jdangsfdsbahdoiajfncajnfhoijnaoifanif131jdangsfdsbahdoiajfncajnfhoijnaoifanif131jdangsfds"));

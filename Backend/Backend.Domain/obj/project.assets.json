@@ -40,6 +40,16 @@
             "related": ".xml"
           }
         }
+      },
+      "Backend.CommonDomain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Backend.CommonDomain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Backend.CommonDomain.dll": {}
+        }
       }
     }
   },
@@ -117,10 +127,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Backend.CommonDomain/1.0.0": {
+      "type": "project",
+      "path": "../Backend.CommonDomain/Backend.CommonDomain.csproj",
+      "msbuildProject": "../Backend.CommonDomain/Backend.CommonDomain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Backend.CommonDomain >= 1.0.0",
       "MongoDB.Bson >= 3.4.0"
     ]
   },
@@ -155,7 +171,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\Backend.CommonDomain.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\Backend.CommonDomain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -104,8 +104,17 @@
           }
         }
       },
+      "Backend.CommonDomain/1.0.0": {
+        "runtime": {
+          "Backend.CommonDomain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Backend.Domain/1.0.0": {
         "dependencies": {
+          "Backend.CommonDomain": "1.0.0",
           "MongoDB.Bson": "3.4.0"
         },
         "runtime": {
@@ -220,6 +229,11 @@
       "sha512": "sha512-U9Ix4l4cl58Kzz1rJzj5hoVTjmbx1qGMwzAcbv1j/d3NzrFaESIurQyg+ow4mivCgkE3S413y+U9k4WdnEIkRA==",
       "path": "zstdsharp.port/0.7.3",
       "hashPath": "zstdsharp.port.0.7.3.nupkg.sha512"
+    },
+    "Backend.CommonDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Backend.Domain/1.0.0": {
       "type": "project",

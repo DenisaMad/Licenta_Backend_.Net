@@ -10,10 +10,6 @@ C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.CommonDomain\obj\Debu
 C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.CommonDomain\obj\Debug\net8.0\refint\Backend.CommonDomain.dll
 C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.CommonDomain\obj\Debug\net8.0\Backend.CommonDomain.pdb
 C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.CommonDomain\obj\Debug\net8.0\ref\Backend.CommonDomain.dll
-C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.CommonDomain\bin\Debug\net8.0\Backend.Domain.dll
-C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.CommonDomain\bin\Debug\net8.0\Backend.Domain.pdb
-C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.CommonDomain\obj\Debug\net8.0\Backend.CommonDomain.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend.CommonDomain\obj\Debug\net8.0\Backend..7824DA1C.Up2Date
 C:\Users\fodor\Desktop\Licenta_Backend_.Net\Backend\Backend.CommonDomain\bin\Debug\net8.0\Backend.CommonDomain.deps.json
 C:\Users\fodor\Desktop\Licenta_Backend_.Net\Backend\Backend.CommonDomain\bin\Debug\net8.0\Backend.CommonDomain.dll
 C:\Users\fodor\Desktop\Licenta_Backend_.Net\Backend\Backend.CommonDomain\bin\Debug\net8.0\Backend.CommonDomain.pdb

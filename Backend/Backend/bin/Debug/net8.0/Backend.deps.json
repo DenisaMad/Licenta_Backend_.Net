@@ -318,6 +318,7 @@
       },
       "Backend.BusinessLogic/1.0.0": {
         "dependencies": {
+          "Backend.CommonDomain": "1.0.0",
           "Backend.DataAbstraction": "1.0.0",
           "Backend.Domain": "1.0.0",
           "FluentValidation": "12.0.0",
@@ -331,9 +332,6 @@
         }
       },
       "Backend.CommonDomain/1.0.0": {
-        "dependencies": {
-          "Backend.Domain": "1.0.0"
-        },
         "runtime": {
           "Backend.CommonDomain.dll": {
             "assemblyVersion": "1.0.0.0",
@@ -368,6 +366,7 @@
       },
       "Backend.Domain/1.0.0": {
         "dependencies": {
+          "Backend.CommonDomain": "1.0.0",
           "MongoDB.Bson": "3.4.0"
         },
         "runtime": {

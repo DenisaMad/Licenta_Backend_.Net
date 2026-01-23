@@ -32,6 +32,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\Backend.CommonDomain.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\Backend.CommonDomain.csproj"
+              },
               "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Backend.DataAbstraction.csproj": {
                 "projectPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Backend.DataAbstraction.csproj"
               },
@@ -113,11 +116,7 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -335,7 +334,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\Backend.CommonDomain.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\Backend.CommonDomain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

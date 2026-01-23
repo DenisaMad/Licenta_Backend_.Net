@@ -32,6 +32,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Backend.Controllers.SaveExtractedMedicineController",
+    "Method": "RegisterMedicine",
+    "RelativePath": "SaveExtractedMedicine",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Backend.BusinessLogic.MedicineDTO.MedicineRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Backend.Controllers.UsersController",
     "Method": "GetUsers",
     "RelativePath": "Users",

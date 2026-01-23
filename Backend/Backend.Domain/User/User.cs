@@ -1,4 +1,5 @@
-﻿using MongoDB.Bson;
+﻿using Backend.CommonDomain;
+using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 using System;
 using System.Collections.Generic;
@@ -31,5 +32,7 @@ namespace Backend.Domain.User
     public string ActiveAccountCode { get; set; }
 
     public List<GeneratedToken> GeneratedTokens { get; set; }
+
+    public UserMedicineDTO UserMedicine { get; set; }
   }
 }

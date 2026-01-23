@@ -36,7 +36,7 @@ namespace Backend.Services
               medicine => medicine.EndDate >= currentDate.Date).ToList();
             if (distanceFromCurrentHourToMorningHour > 0 && distanceFromCurrentHourToMorningHour < distanceFromCurrentHourToEveningHour && distanceFromCurrentHourToMorningHour < distanceFromCurrentHourToNightHour && distanceFromCurrentHourToMorningHour < 2)
             {
-              string message = $@"{user.Name}, it's time to take your morning medicines in {distanceFromCurrentHourToMorningHour} hours.";
+              string message = $@"{user.Name ?? user.Email}, it's time to take your morning medicines in {distanceFromCurrentHourToMorningHour} hours.";
               emailService.SendEmail(user.Email, "Medicine Reminder - Morning Dose", message);
               var medicinesToTakeInMorning = user.UserMedicine.Medicines.Where(
                 medicine => medicine.EndDate >= currentDate.Date && medicine.CountMorning > 0).ToList();
@@ -53,7 +53,7 @@ namespace Backend.Services
             }
             else if (distanceFromCurrentHourToEveningHour > 0 && distanceFromCurrentHourToEveningHour < distanceFromCurrentHourToMorningHour && distanceFromCurrentHourToEveningHour < distanceFromCurrentHourToNightHour && distanceFromCurrentHourToEveningHour < 2)
             {
-              string message = $@"{user.Name}, it's time to take your evening medicines in {distanceFromCurrentHourToEveningHour} hours.";
+              string message = $@"{user.Name ?? user.Email}, it's time to take your evening medicines in {distanceFromCurrentHourToEveningHour} hours.";
               emailService.SendEmail(user.Email, "Medicine Reminder - Evening Dose", message);
               var medicinesToTakeInEvening = user.UserMedicine.Medicines.Where(
                 medicine => medicine.EndDate >= currentDate.Date && medicine.CountAfterNon > 0).ToList();
@@ -75,7 +75,7 @@ namespace Backend.Services
             }
             else if (distanceFromCurrentHourToNightHour > 0 && distanceFromCurrentHourToNightHour < distanceFromCurrentHourToMorningHour && distanceFromCurrentHourToNightHour < distanceFromCurrentHourToEveningHour && distanceFromCurrentHourToNightHour < 2)
             {
-              string message = $@"{user.Name}, it's time to take your night medicines in {distanceFromCurrentHourToNightHour} hours.";
+              string message = $@"{user.Name ?? user.Email}, it's time to take your night medicines in {distanceFromCurrentHourToNightHour} hours.";
               emailService.SendEmail(user.Email, "Medicine Reminder - Night Dose", message);
               var medicinesToTakeInNight = user.UserMedicine.Medicines.Where(
                 medicine => medicine.EndDate >= currentDate.Date && medicine.CountNight > 0).ToList();

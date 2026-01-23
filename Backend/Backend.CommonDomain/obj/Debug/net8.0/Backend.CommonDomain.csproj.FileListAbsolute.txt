@@ -26,3 +26,15 @@ C:\Users\fodor\Desktop\Licenta_Backend_.Net\Backend\Backend.CommonDomain\obj\Deb
 C:\Users\fodor\Desktop\Licenta_Backend_.Net\Backend\Backend.CommonDomain\obj\Debug\net8.0\refint\Backend.CommonDomain.dll
 C:\Users\fodor\Desktop\Licenta_Backend_.Net\Backend\Backend.CommonDomain\obj\Debug\net8.0\Backend.CommonDomain.pdb
 C:\Users\fodor\Desktop\Licenta_Backend_.Net\Backend\Backend.CommonDomain\obj\Debug\net8.0\ref\Backend.CommonDomain.dll
+C:\Users\Robi\Documents\Denisa\Licenta_Backend_.Net\Backend\Backend.CommonDomain\bin\Debug\net8.0\Backend.CommonDomain.deps.json
+C:\Users\Robi\Documents\Denisa\Licenta_Backend_.Net\Backend\Backend.CommonDomain\bin\Debug\net8.0\Backend.CommonDomain.dll
+C:\Users\Robi\Documents\Denisa\Licenta_Backend_.Net\Backend\Backend.CommonDomain\bin\Debug\net8.0\Backend.CommonDomain.pdb
+C:\Users\Robi\Documents\Denisa\Licenta_Backend_.Net\Backend\Backend.CommonDomain\obj\Debug\net8.0\Backend.CommonDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robi\Documents\Denisa\Licenta_Backend_.Net\Backend\Backend.CommonDomain\obj\Debug\net8.0\Backend.CommonDomain.AssemblyInfoInputs.cache
+C:\Users\Robi\Documents\Denisa\Licenta_Backend_.Net\Backend\Backend.CommonDomain\obj\Debug\net8.0\Backend.CommonDomain.AssemblyInfo.cs
+C:\Users\Robi\Documents\Denisa\Licenta_Backend_.Net\Backend\Backend.CommonDomain\obj\Debug\net8.0\Backend.CommonDomain.csproj.CoreCompileInputs.cache
+C:\Users\Robi\Documents\Denisa\Licenta_Backend_.Net\Backend\Backend.CommonDomain\obj\Debug\net8.0\Backend.CommonDomain.sourcelink.json
+C:\Users\Robi\Documents\Denisa\Licenta_Backend_.Net\Backend\Backend.CommonDomain\obj\Debug\net8.0\Backend.CommonDomain.dll
+C:\Users\Robi\Documents\Denisa\Licenta_Backend_.Net\Backend\Backend.CommonDomain\obj\Debug\net8.0\refint\Backend.CommonDomain.dll
+C:\Users\Robi\Documents\Denisa\Licenta_Backend_.Net\Backend\Backend.CommonDomain\obj\Debug\net8.0\Backend.CommonDomain.pdb
+C:\Users\Robi\Documents\Denisa\Licenta_Backend_.Net\Backend\Backend.CommonDomain\obj\Debug\net8.0\ref\Backend.CommonDomain.dll

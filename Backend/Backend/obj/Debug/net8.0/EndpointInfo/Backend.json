@@ -41,11 +41,17 @@
                   "File": {
                     "type": "string",
                     "format": "binary"
+                  },
+                  "UserId": {
+                    "type": "string"
                   }
                 }
               },
               "encoding": {
                 "File": {
+                  "style": "form"
+                },
+                "UserId": {
                   "style": "form"
                 }
               }
@@ -360,10 +366,6 @@
       "MedicineRequest": {
         "type": "object",
         "properties": {
-          "id": {
-            "type": "string",
-            "nullable": true
-          },
           "medicines": {
             "type": "array",
             "items": {

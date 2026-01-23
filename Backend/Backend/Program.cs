@@ -3,6 +3,7 @@ using Backend.DataAbstraction.BearerTokens;
 using Backend.DataAbstraction.Database;
 using Backend.DataAbstraction.Security;
 using Backend.Database;
+using Backend.Services;
 using Backend.Services.Database;
 using Backend.Services.Security;
 using FluentValidation.AspNetCore;
@@ -29,6 +30,7 @@ internal class Program
             );
         });
         builder.Services.AddControllers();
+    builder.Services.AddScoped<IDjangoService, DjangoService>();
     // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
     builder.Services.AddEndpointsApiExplorer();
     builder.Services.AddSwaggerGen();
@@ -74,9 +76,9 @@ internal class Program
 
         builder.Services.AddScoped<IBearerTokenService, BearerTokenService>();
 
+        builder.Services.AddHostedService<MedicineNotifierBackgroundService>();
 
-
-        var app = builder.Build();
+    var app = builder.Build();
 
         
         // Configure the HTTP request pipeline.

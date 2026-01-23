@@ -22,19 +22,20 @@ namespace Backend.BusinessLogic.MedicineDTO
         }
         public async Task<MedicineResponse> Handle(MedicineRequest request, CancellationToken cancellationToken)
         {
-            var collection = mongoDataBase.GetCollection<Domain.User.User>();
-            var filter = Builders<Domain.User.User>.Filter.Eq(x => x.Id, request.Id);
-            var userFromDB = await collection.Find(filter).FirstOrDefaultAsync();
-            userFromDB.UserMedicine = new UserMedicineDTO
-            {
-                PatientName = request.PatientName,
-                DoctorName = request.DoctorName,
-                Date = request.Date,
-                Medicines = request.Medicines
+      /*  var collection = mongoDataBase.GetCollection<Domain.User.User>();
+        var filter = Builders<Domain.User.User>.Filter.Eq(x => x.Id, request.Id);
+        var userFromDB = await collection.Find(filter).FirstOrDefaultAsync();
+        userFromDB.UserMedicine = new UserMedicineDTO
+        {
+            PatientName = request.PatientName,
+            DoctorName = request.DoctorName,
+            Date = request.Date,
+            Medicines = request.Medicines
 
-            };
-            await mongoDataBase.GetCollection<Domain.User.User>().ReplaceOneAsync(Builders<Domain.User.User>.Filter.Eq(x => x.Id, request.Id), userFromDB, cancellationToken: cancellationToken);
-            return new MedicineResponse { Success = true};
+        };
+        await mongoDataBase.GetCollection<Domain.User.User>().ReplaceOneAsync(Builders<Domain.User.User>.Filter.Eq(x => x.Id, request.Id), userFromDB, cancellationToken: cancellationToken);
+        return new MedicineResponse { Success = true};*/
+      throw new Exception("e folosit:)");
         }
 
     }

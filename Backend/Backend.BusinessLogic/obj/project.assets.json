@@ -63,6 +63,23 @@
           }
         }
       },
+      "Microsoft.AspNetCore.Http.Features/5.0.17": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "5.0.1",
+          "System.IO.Pipelines": "5.0.2"
+        },
+        "compile": {
+          "lib/net5.0/Microsoft.AspNetCore.Http.Features.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.AspNetCore.Http.Features.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.DependencyInjection/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -337,6 +354,19 @@
           "lib/netcoreapp2.0/_._": {}
         }
       },
+      "System.IO.Pipelines/5.0.2": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/System.IO.Pipelines.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/System.IO.Pipelines.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.Memory/4.5.5": {
         "type": "package",
         "compile": {
@@ -526,6 +556,25 @@
         "lib/netstandard2.0/MediatR.Contracts.xml",
         "mediatr.contracts.2.0.1.nupkg.sha512",
         "mediatr.contracts.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Http.Features/5.0.17": {
+      "sha512": "3jG2xS+dx8DDCGV/F+STdPTg89lX3ao3dF/VEPvJaz3wzBIjuadipTtYNEXDIVuOPZwb6jdmhrX9jkzOIBm5cw==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.http.features/5.0.17",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.AspNetCore.Http.Features.dll",
+        "lib/net461/Microsoft.AspNetCore.Http.Features.xml",
+        "lib/net5.0/Microsoft.AspNetCore.Http.Features.dll",
+        "lib/net5.0/Microsoft.AspNetCore.Http.Features.xml",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.xml",
+        "microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+        "microsoft.aspnetcore.http.features.nuspec"
       ]
     },
     "Microsoft.Extensions.DependencyInjection/8.0.0": {
@@ -1033,6 +1082,32 @@
         "version.txt"
       ]
     },
+    "System.IO.Pipelines/5.0.2": {
+      "sha512": "Iew+dfa6FFiyvWBdRmXApixRY1db+beyutpIck4SOSe0NLM8FD/7AD54MscqVLhvfSMLHO7KadjTRT7fqxOGTA==",
+      "type": "package",
+      "path": "system.io.pipelines/5.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.IO.Pipelines.dll",
+        "lib/net461/System.IO.Pipelines.xml",
+        "lib/netcoreapp3.0/System.IO.Pipelines.dll",
+        "lib/netcoreapp3.0/System.IO.Pipelines.xml",
+        "lib/netstandard1.3/System.IO.Pipelines.dll",
+        "lib/netstandard1.3/System.IO.Pipelines.xml",
+        "lib/netstandard2.0/System.IO.Pipelines.dll",
+        "lib/netstandard2.0/System.IO.Pipelines.xml",
+        "ref/netcoreapp2.0/System.IO.Pipelines.dll",
+        "ref/netcoreapp2.0/System.IO.Pipelines.xml",
+        "system.io.pipelines.5.0.2.nupkg.sha512",
+        "system.io.pipelines.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
     "System.Memory/4.5.5": {
       "sha512": "XIWiDvKPXaTveaB7HVganDlOCRoj03l+jrwNvcge/t8vhGYKvqV+dMv6G4SAX2NoNmN0wZfVPTAlFwZcZvVOUw==",
       "type": "package",
@@ -1230,27 +1305,28 @@
       "Backend.DataAbstraction >= 1.0.0",
       "Backend.Domain >= 1.0.0",
       "FluentValidation >= 12.0.0",
-      "MediatR >= 13.0.0"
+      "MediatR >= 13.0.0",
+      "Microsoft.AspNetCore.Http.Features >= 5.0.17"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Users\\Robi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\Backend.BusinessLogic.csproj",
+      "projectUniqueName": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\Backend.BusinessLogic.csproj",
       "projectName": "Backend.BusinessLogic",
-      "projectPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\Backend.BusinessLogic.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\obj\\",
+      "projectPath": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\Backend.BusinessLogic.csproj",
+      "packagesPath": "C:\\Users\\Robi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Robi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1259,20 +1335,22 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/skillanvil/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\Backend.CommonDomain.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\Backend.CommonDomain.csproj"
+            "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\Backend.CommonDomain.csproj": {
+              "projectPath": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\Backend.CommonDomain.csproj"
             },
-            "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Backend.DataAbstraction.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Backend.DataAbstraction.csproj"
+            "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Backend.DataAbstraction.csproj": {
+              "projectPath": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Backend.DataAbstraction.csproj"
             },
-            "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj"
+            "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj": {
+              "projectPath": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj"
             }
           }
         }
@@ -1300,6 +1378,10 @@
           "MediatR": {
             "target": "Package",
             "version": "[13.0.0, )"
+          },
+          "Microsoft.AspNetCore.Http.Features": {
+            "target": "Package",
+            "version": "[5.0.17, )"
           }
         },
         "imports": [
@@ -1318,7 +1400,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

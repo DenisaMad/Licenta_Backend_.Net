@@ -10,41 +10,65 @@ using Backend.DataAbstraction;
 
 namespace Backend.Services.Security
 {
-    public class EmailSender : IEmailSender
+  public class EmailSender : IEmailSender
+  {
+    private readonly IEmailConfig _configuration;
+
+    public EmailSender(IEmailConfig configuration)
     {
-        private readonly IEmailConfig _configuration;
-
-        public EmailSender(IEmailConfig configuration)
-        {
-            _configuration = configuration;
-
-        }
-        public void SendEmail(string to, string subject)
-        {
-            var fromAddress = _configuration.From;
-            var smtpHost = _configuration.Host;
-            var smtpPort = _configuration.Port;
-            var username = _configuration.Username;
-            var password = _configuration.Password;
-
-            var message = new MailMessage
-            {
-                From = new MailAddress(fromAddress),
-                Subject = subject
-            };
-
-            message.To.Add(to);
-
-            using var client = new SmtpClient(smtpHost, smtpPort)
-            {
-                Credentials = new NetworkCredential(username, password),
-                EnableSsl = true
-            };
-
-            client.Send(message);
-        }
-    }
-
+      _configuration = configuration;
 
     }
+    public void SendEmail(string to, string subject)
+    {
+      var fromAddress = _configuration.From;
+      var smtpHost = _configuration.Host;
+      var smtpPort = _configuration.Port;
+      var username = _configuration.Username;
+      var password = _configuration.Password;
+
+      var message = new MailMessage
+      {
+        From = new MailAddress(fromAddress),
+        Subject = subject
+      };
+
+      message.To.Add(to);
+
+      using var client = new SmtpClient(smtpHost, smtpPort)
+      {
+        Credentials = new NetworkCredential(username, password),
+        EnableSsl = true
+      };
+
+      client.Send(message);
+    }
+
+    public void SendEmail(string to, string subject, string body)
+    {
+      var fromAddress = _configuration.From;
+      var smtpHost = _configuration.Host;
+      var smtpPort = _configuration.Port;
+      var username = _configuration.Username;
+      var password = _configuration.Password;
+
+      var message = new MailMessage
+      {
+        From = new MailAddress(fromAddress),
+        Subject = subject,
+        Body = body,
+        IsBodyHtml = true
+      };
+      message.To.Add(to);
+      using var client = new SmtpClient(smtpHost, smtpPort)
+      {
+        Credentials = new NetworkCredential(username, password),
+        EnableSsl = true
+      };
+      client.Send(message);
+    }
+  }
+
+
+}
 

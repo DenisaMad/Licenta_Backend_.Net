@@ -2,7 +2,7 @@
 {
   public interface IAuthentificationService
   {
-    public string GenerateAccessToken(string email, string name, Enum role);
+    public string GenerateAccessToken(string email, string name, Enum role, string userId);
 
     public string GenerateRefreshToken();
 

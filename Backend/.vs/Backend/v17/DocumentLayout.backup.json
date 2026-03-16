@@ -1,328 +1,348 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.services\\medicinenotifierbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\medicinenotifierbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.domain\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.domain\\user\\usernotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\user\\usernotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB5C327A-43E3-4200-B6BA-F72A02D7DBDA}|Backend.CommonDomain\\Backend.CommonDomain.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.commondomain\\usermedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB5C327A-43E3-4200-B6BA-F72A02D7DBDA}|Backend.CommonDomain\\Backend.CommonDomain.csproj|solutionrelative:backend.commondomain\\usermedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.dataabstraction\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|solutionrelative:backend.dataabstraction\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.services\\security\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\security\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\processmedicineimage\\processmedicineimagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\processmedicineimage\\processmedicineimagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend\\controllers\\photocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\photocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend\\controllers\\saveextractedmedicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\saveextractedmedicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\processmedicineimage\\processmedicineimageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\processmedicineimage\\processmedicineimageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\processmedicineimage\\processmedicineimagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\processmedicineimage\\processmedicineimagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\medicinedto\\medicinehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\medicinedto\\medicinehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.services\\djangoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\djangoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.services\\backend.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\backend.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.dataabstraction\\idjangoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|solutionrelative:backend.dataabstraction\\idjangoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB5C327A-43E3-4200-B6BA-F72A02D7DBDA}|Backend.CommonDomain\\Backend.CommonDomain.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.commondomain\\medicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB5C327A-43E3-4200-B6BA-F72A02D7DBDA}|Backend.CommonDomain\\Backend.CommonDomain.csproj|solutionrelative:backend.commondomain\\medicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\loginuser\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\loginuser\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB5C327A-43E3-4200-B6BA-F72A02D7DBDA}|Backend.CommonDomain\\Backend.CommonDomain.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.commondomain\\users\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB5C327A-43E3-4200-B6BA-F72A02D7DBDA}|Backend.CommonDomain\\Backend.CommonDomain.csproj|solutionrelative:backend.commondomain\\users\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\medicinedto\\medicinerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\medicinedto\\medicinerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\medicinedto\\medicinevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\medicinedto\\medicinevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\medicinedto\\medicineresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\medicinedto\\medicineresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\createmedicine\\createmedicineresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\createmedicine\\createmedicineresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\createmedicine\\createmedicinehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\createmedicine\\createmedicinehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\createmedicine\\createmedicinevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\createmedicine\\createmedicinevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\createmedicine\\createmedicinerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\createmedicine\\createmedicinerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB5C327A-43E3-4200-B6BA-F72A02D7DBDA}|Backend.CommonDomain\\Backend.CommonDomain.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.commondomain\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB5C327A-43E3-4200-B6BA-F72A02D7DBDA}|Backend.CommonDomain\\Backend.CommonDomain.csproj|solutionrelative:backend.commondomain\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\deleteuser\\deleteuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\deleteuser\\deleteuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\activateuseraccountviacode\\activateuseraccountviacodevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\activateuseraccountviacode\\activateuseraccountviacodevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\activateuseraccountviacode\\activateuseraccountviacoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\activateuseraccountviacode\\activateuseraccountviacoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\activateuseraccountviacode\\activateuseraccountviacodehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\activateuseraccountviacode\\activateuseraccountviacodehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AAF6731-D362-4735-AB17-6FCC320ED45A}|Backend.Database\\Backend.Database.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.database\\mongodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AAF6731-D362-4735-AB17-6FCC320ED45A}|Backend.Database\\Backend.Database.csproj|solutionrelative:backend.database\\mongodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.domain\\medicinedomain\\medicinelabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\medicinedomain\\medicinelabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.domain\\medicinedomain\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\medicinedomain\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.domain\\medicinedomain\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\medicinedomain\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.domain\\medicinedomain\\fda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\medicinedomain\\fda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.domain\\medicinedomain\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\medicinedomain\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.domain\\imedicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\imedicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47A0FDB6-7BC6-40BD-93EE-0EC128F8F38D}|Backend.Repositories\\Backend.Repositories.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.repositories\\medicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47A0FDB6-7BC6-40BD-93EE-0EC128F8F38D}|Backend.Repositories\\Backend.Repositories.csproj|solutionrelative:backend.repositories\\medicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\activateuseraccountviacode\\activateuseraccountviacoderesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\activateuseraccountviacode\\activateuseraccountviacoderesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\createuser\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\createuser\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.services\\security\\bearertokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\security\\bearertokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.services\\security\\authtokensservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\security\\authtokensservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.dataabstraction\\bearertokens\\iauthtokensservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|solutionrelative:backend.dataabstraction\\bearertokens\\iauthtokensservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.domain\\user\\tokentype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\user\\tokentype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.domain\\user\\generatedtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\user\\generatedtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.domain\\backend.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\backend.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.dataabstraction\\bearertokens\\ibearertokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|solutionrelative:backend.dataabstraction\\bearertokens\\ibearertokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.services\\security\\authentificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.services\\security\\authentificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\security\\authentificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\createuser\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.dataabstraction\\security\\iauthentificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|solutionrelative:backend.dataabstraction\\security\\iauthentificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.services\\security\\bearertokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\security\\bearertokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.services\\medicinenotifierbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\medicinenotifierbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.dataabstraction\\bearertokens\\ibearertokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|solutionrelative:backend.dataabstraction\\bearertokens\\ibearertokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\loginuser\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\loginuser\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\loginuser\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\loginuser\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\loginuser\\loginuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\loginuser\\loginuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\getusernotification\\getusernotificationshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\getusernotification\\getusernotificationshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\getusernotification\\getusernotificationsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\getusernotification\\getusernotificationsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\getusernotification\\getusernotificationsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\getusernotification\\getusernotificationsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend\\controllers\\saveextractedmedicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\saveextractedmedicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.domain\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.domain\\user\\usernotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\user\\usernotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5C327A-43E3-4200-B6BA-F72A02D7DBDA}|Backend.CommonDomain\\Backend.CommonDomain.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.commondomain\\usermedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5C327A-43E3-4200-B6BA-F72A02D7DBDA}|Backend.CommonDomain\\Backend.CommonDomain.csproj|solutionrelative:backend.commondomain\\usermedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.dataabstraction\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|solutionrelative:backend.dataabstraction\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.services\\security\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\security\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\processmedicineimage\\processmedicineimagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\processmedicineimage\\processmedicineimagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend\\controllers\\photocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\photocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\processmedicineimage\\processmedicineimageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\processmedicineimage\\processmedicineimageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\processmedicineimage\\processmedicineimagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\processmedicineimage\\processmedicineimagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\medicinedto\\medicinehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\medicinedto\\medicinehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.services\\djangoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\djangoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.services\\backend.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\backend.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.dataabstraction\\idjangoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|solutionrelative:backend.dataabstraction\\idjangoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5C327A-43E3-4200-B6BA-F72A02D7DBDA}|Backend.CommonDomain\\Backend.CommonDomain.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.commondomain\\medicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5C327A-43E3-4200-B6BA-F72A02D7DBDA}|Backend.CommonDomain\\Backend.CommonDomain.csproj|solutionrelative:backend.commondomain\\medicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5C327A-43E3-4200-B6BA-F72A02D7DBDA}|Backend.CommonDomain\\Backend.CommonDomain.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.commondomain\\users\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5C327A-43E3-4200-B6BA-F72A02D7DBDA}|Backend.CommonDomain\\Backend.CommonDomain.csproj|solutionrelative:backend.commondomain\\users\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\medicinedto\\medicinerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\medicinedto\\medicinerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\medicinedto\\medicinevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\medicinedto\\medicinevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\medicinedto\\medicineresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\medicinedto\\medicineresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\createmedicine\\createmedicineresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\createmedicine\\createmedicineresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\createmedicine\\createmedicinehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\createmedicine\\createmedicinehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\createmedicine\\createmedicinevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\createmedicine\\createmedicinevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\createmedicine\\createmedicinerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\createmedicine\\createmedicinerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5C327A-43E3-4200-B6BA-F72A02D7DBDA}|Backend.CommonDomain\\Backend.CommonDomain.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.commondomain\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5C327A-43E3-4200-B6BA-F72A02D7DBDA}|Backend.CommonDomain\\Backend.CommonDomain.csproj|solutionrelative:backend.commondomain\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\deleteuser\\deleteuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\deleteuser\\deleteuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\activateuseraccountviacode\\activateuseraccountviacodevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\activateuseraccountviacode\\activateuseraccountviacodevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\activateuseraccountviacode\\activateuseraccountviacoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\activateuseraccountviacode\\activateuseraccountviacoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\activateuseraccountviacode\\activateuseraccountviacodehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\activateuseraccountviacode\\activateuseraccountviacodehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAF6731-D362-4735-AB17-6FCC320ED45A}|Backend.Database\\Backend.Database.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.database\\mongodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AAF6731-D362-4735-AB17-6FCC320ED45A}|Backend.Database\\Backend.Database.csproj|solutionrelative:backend.database\\mongodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.domain\\medicinedomain\\medicinelabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\medicinedomain\\medicinelabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.domain\\medicinedomain\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\medicinedomain\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.domain\\medicinedomain\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\medicinedomain\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.domain\\medicinedomain\\fda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\medicinedomain\\fda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.domain\\medicinedomain\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\medicinedomain\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.domain\\imedicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\imedicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A0FDB6-7BC6-40BD-93EE-0EC128F8F38D}|Backend.Repositories\\Backend.Repositories.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.repositories\\medicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A0FDB6-7BC6-40BD-93EE-0EC128F8F38D}|Backend.Repositories\\Backend.Repositories.csproj|solutionrelative:backend.repositories\\medicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\activateuseraccountviacode\\activateuseraccountviacoderesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\activateuseraccountviacode\\activateuseraccountviacoderesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\createuser\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\createuser\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.services\\security\\authtokensservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\security\\authtokensservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.dataabstraction\\bearertokens\\iauthtokensservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|solutionrelative:backend.dataabstraction\\bearertokens\\iauthtokensservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.domain\\user\\tokentype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\user\\tokentype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.domain\\user\\generatedtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\user\\generatedtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.domain\\backend.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\backend.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\createuser\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\createuser\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\createuser\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\createuser\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\createuser\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\deleteuser\\deleteuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\deleteuser\\deleteuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\deleteuser\\deleteuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\loginuser\\loginuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\loginuser\\loginuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\loginuser\\loginuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.services\\security\\hashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.services\\security\\hashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\security\\hashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\loginuser\\loginuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\loginuser\\loginuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\f7155a9fbca2909cbb09c3bd2f7e98b1e88c0ace9254dd04839ba5f0fb508d76\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\updateuser\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\updateuser\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\updateuser\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.dataabstraction\\security\\iemailconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.dataabstraction\\security\\iemailconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|solutionrelative:backend.dataabstraction\\security\\iemailconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.services\\security\\emailconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.services\\security\\emailconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\security\\emailconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.dataabstraction\\security\\ihashingsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.dataabstraction\\security\\ihashingsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|solutionrelative:backend.dataabstraction\\security\\ihashingsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.services\\security\\hashingsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.services\\security\\hashingsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\security\\hashingsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.dataabstraction\\security\\ihashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.dataabstraction\\security\\ihashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|solutionrelative:backend.dataabstraction\\security\\ihashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\updateuser\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\updateuser\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\updateuser\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\updateuser\\updateuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\updateuser\\updateuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\updateuser\\updateuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\updateuser\\updateuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\updateuser\\updateuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\updateuser\\updateuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend\\dependecyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend\\dependecyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\dependecyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\deleteuser\\deleteuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\deleteuser\\deleteuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\deleteuser\\deleteuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\getusers\\getusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\getusers\\getusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\getusers\\getusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\getusers\\getusersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\getusers\\getusersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\getusers\\getusersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\getusers\\getusersvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\getusers\\getusersvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\getusers\\getusersvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\getusers\\getusersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\getusers\\getusersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\getusers\\getusersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\deleteuser\\deleteuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\deleteuser\\deleteuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\deleteuser\\deleteuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.dataabstraction\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.dataabstraction\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|solutionrelative:backend.dataabstraction\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\replaceuser\\replaceuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\replaceuser\\replaceuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\replaceuser\\replaceuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\replaceuser\\replaceuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\replaceuser\\replaceuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\replaceuser\\replaceuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\robi\\documents\\denisa\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\replaceuser\\replaceuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\replaceuser\\replaceuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\replaceuser\\replaceuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -337,13 +357,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\User.cs",
               "RelativeDocumentMoniker": "Backend.Domain\\User\\User.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\User.cs",
               "RelativeToolTip": "Backend.Domain\\User\\User.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA4wCUAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvx4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-02T05:22:25.944Z",
               "IsPinned": true,
@@ -351,15 +371,19 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -374,107 +398,217 @@
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserNotification.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\UserNotification.cs",
-              "RelativeDocumentMoniker": "Backend.Domain\\User\\UserNotification.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\UserNotification.cs",
-              "RelativeToolTip": "Backend.Domain\\User\\UserNotification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwEkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T15:48:27.186Z",
+              "WhenOpened": "2025-06-26T15:31:51.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AuthentificationService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\AuthentificationService.cs",
+              "RelativeDocumentMoniker": "Backend.Services\\Security\\AuthentificationService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\AuthentificationService.cs",
+              "RelativeToolTip": "Backend.Services\\Security\\AuthentificationService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T16:33:27.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BearerTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\BearerTokenService.cs",
+              "RelativeDocumentMoniker": "Backend.Services\\Security\\BearerTokenService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\BearerTokenService.cs",
+              "RelativeToolTip": "Backend.Services\\Security\\BearerTokenService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwC0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T16:34:26.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MedicineNotifierBackgroundService.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Services\\MedicineNotifierBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\MedicineNotifierBackgroundService.cs",
               "RelativeDocumentMoniker": "Backend.Services\\MedicineNotifierBackgroundService.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Services\\MedicineNotifierBackgroundService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\MedicineNotifierBackgroundService.cs",
               "RelativeToolTip": "Backend.Services\\MedicineNotifierBackgroundService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAhwGYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-23T15:35:49.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DjangoService.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Services\\DjangoService.cs",
-              "RelativeDocumentMoniker": "Backend.Services\\DjangoService.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Services\\DjangoService.cs",
-              "RelativeToolTip": "Backend.Services\\DjangoService.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T15:19:46.164Z",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\appsettings.json",
+              "RelativeToolTip": "Backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-15T15:50:47.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IDjangoService.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\IDjangoService.cs",
-              "RelativeDocumentMoniker": "Backend.DataAbstraction\\IDjangoService.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\IDjangoService.cs",
-              "RelativeToolTip": "Backend.DataAbstraction\\IDjangoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IAuthentificationService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IAuthentificationService.cs",
+              "RelativeDocumentMoniker": "Backend.DataAbstraction\\Security\\IAuthentificationService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IAuthentificationService.cs",
+              "RelativeToolTip": "Backend.DataAbstraction\\Security\\IAuthentificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T15:18:58.077Z",
+              "WhenOpened": "2026-02-22T17:45:09.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProcessMedicineImageResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageResponse.cs",
-              "RelativeDocumentMoniker": "Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageResponse.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageResponse.cs",
-              "RelativeToolTip": "Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "IBearerTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\BearerTokens\\IBearerTokenService.cs",
+              "RelativeDocumentMoniker": "Backend.DataAbstraction\\BearerTokens\\IBearerTokenService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\BearerTokens\\IBearerTokenService.cs",
+              "RelativeToolTip": "Backend.DataAbstraction\\BearerTokens\\IBearerTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T15:15:16.764Z",
+              "WhenOpened": "2025-10-29T16:33:21.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ProcessMedicineImageHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageHandler.cs",
-              "RelativeDocumentMoniker": "Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageHandler.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageHandler.cs",
-              "RelativeToolTip": "Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageHandler.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "Title": "LoginUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserHandler.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserHandler.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserHandler.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T15:15:10.753Z",
+              "WhenOpened": "2025-09-30T17:15:41.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProcessMedicineImageRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageRequest.cs",
-              "RelativeDocumentMoniker": "Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageRequest.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageRequest.cs",
-              "RelativeToolTip": "Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "LoginUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserRequest.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserRequest.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T15:15:04.903Z",
+              "WhenOpened": "2026-02-22T17:29:30.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetUserNotificationsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\GetUserNotification\\GetUserNotificationsHandler.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\GetUserNotification\\GetUserNotificationsHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\GetUserNotification\\GetUserNotificationsHandler.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\GetUserNotification\\GetUserNotificationsHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T16:15:01.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "GetUserNotificationsRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\GetUserNotification\\GetUserNotificationsRequest.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\GetUserNotification\\GetUserNotificationsRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\GetUserNotification\\GetUserNotificationsRequest.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\GetUserNotification\\GetUserNotificationsRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T16:14:31.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwE4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:31:25.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProcessMedicineImageResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageResponse.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageResponse.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T15:15:16.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserResponse.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserResponse.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T16:15:16.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetUserNotificationsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\GetUserNotification\\GetUserNotificationsResponse.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\GetUserNotification\\GetUserNotificationsResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\GetUserNotification\\GetUserNotificationsResponse.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\GetUserNotification\\GetUserNotificationsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T16:13:57.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IDjangoService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\IDjangoService.cs",
+              "RelativeDocumentMoniker": "Backend.DataAbstraction\\IDjangoService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\IDjangoService.cs",
+              "RelativeToolTip": "Backend.DataAbstraction\\IDjangoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T15:18:58.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "SaveExtractedMedicineController.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\SaveExtractedMedicineController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\SaveExtractedMedicineController.cs",
               "RelativeDocumentMoniker": "Backend\\Controllers\\SaveExtractedMedicineController.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\SaveExtractedMedicineController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\SaveExtractedMedicineController.cs",
               "RelativeToolTip": "Backend\\Controllers\\SaveExtractedMedicineController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -483,11 +617,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
+              "Title": "DjangoService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\DjangoService.cs",
+              "RelativeDocumentMoniker": "Backend.Services\\DjangoService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\DjangoService.cs",
+              "RelativeToolTip": "Backend.Services\\DjangoService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T15:19:46.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserNotification.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\UserNotification.cs",
+              "RelativeDocumentMoniker": "Backend.Domain\\User\\UserNotification.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\UserNotification.cs",
+              "RelativeToolTip": "Backend.Domain\\User\\UserNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T15:48:27.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProcessMedicineImageHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageHandler.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageHandler.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T15:15:10.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProcessMedicineImageRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageRequest.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageRequest.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T15:15:04.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "MedicineValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\MedicineDTO\\MedicineValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\MedicineDTO\\MedicineValidator.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\MedicineDTO\\MedicineValidator.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\MedicineDTO\\MedicineValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\MedicineDTO\\MedicineValidator.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\MedicineDTO\\MedicineValidator.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -495,11 +677,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 31,
               "Title": "MedicineRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\MedicineDTO\\MedicineRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\MedicineDTO\\MedicineRequest.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\MedicineDTO\\MedicineRequest.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\MedicineDTO\\MedicineRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\MedicineDTO\\MedicineRequest.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\MedicineDTO\\MedicineRequest.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -507,24 +689,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "MedicineHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\MedicineDTO\\MedicineHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\MedicineDTO\\MedicineHandler.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\MedicineDTO\\MedicineHandler.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\MedicineDTO\\MedicineHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\MedicineDTO\\MedicineHandler.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\MedicineDTO\\MedicineHandler.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAxwCUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T12:18:28.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T12:18:28.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\Users\\Users.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\Users\\Users.cs",
               "RelativeDocumentMoniker": "Backend.CommonDomain\\Users\\Users.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\Users\\Users.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\Users\\Users.cs",
               "RelativeToolTip": "Backend.CommonDomain\\Users\\Users.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -532,62 +713,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "LoginUserHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserHandler.cs",
-              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserHandler.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserHandler.cs",
-              "RelativeToolTip": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserHandler.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwDcAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T17:15:41.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 29,
               "Title": "MedicineDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\MedicineDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\MedicineDTO.cs",
               "RelativeDocumentMoniker": "Backend.CommonDomain\\MedicineDTO.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\MedicineDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\MedicineDTO.cs",
               "RelativeToolTip": "Backend.CommonDomain\\MedicineDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T12:53:54.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T12:53:54.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "UserMedicineDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\UserMedicineDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\UserMedicineDTO.cs",
               "RelativeDocumentMoniker": "Backend.CommonDomain\\UserMedicineDTO.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\UserMedicineDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\UserMedicineDTO.cs",
               "RelativeToolTip": "Backend.CommonDomain\\UserMedicineDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T12:52:48.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T12:52:48.11Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 22,
               "Title": "MedicineController.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\MedicineController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\MedicineController.cs",
               "RelativeDocumentMoniker": "Backend\\Controllers\\MedicineController.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\MedicineController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\MedicineController.cs",
               "RelativeToolTip": "Backend\\Controllers\\MedicineController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAqwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T14:31:38.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T14:31:38.687Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 33,
               "Title": "MedicineResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\MedicineDTO\\MedicineResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\MedicineDTO\\MedicineResponse.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\MedicineDTO\\MedicineResponse.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\MedicineDTO\\MedicineResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\MedicineDTO\\MedicineResponse.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\MedicineDTO\\MedicineResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -595,11 +761,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 34,
               "Title": "CreateMedicineResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\CreateMedicine\\CreateMedicineResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\CreateMedicine\\CreateMedicineResponse.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\CreateMedicine\\CreateMedicineResponse.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\CreateMedicine\\CreateMedicineResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\CreateMedicine\\CreateMedicineResponse.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\CreateMedicine\\CreateMedicineResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -607,11 +773,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "PhotoController.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\PhotoController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\PhotoController.cs",
               "RelativeDocumentMoniker": "Backend\\Controllers\\PhotoController.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\PhotoController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\PhotoController.cs",
               "RelativeToolTip": "Backend\\Controllers\\PhotoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -620,11 +786,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 35,
               "Title": "CreateUserHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserHandler.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserHandler.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserHandler.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -632,24 +798,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 36,
               "Title": "CreateMedicineHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\CreateMedicine\\CreateMedicineHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\CreateMedicine\\CreateMedicineHandler.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\CreateMedicine\\CreateMedicineHandler.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\CreateMedicine\\CreateMedicineHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\CreateMedicine\\CreateMedicineHandler.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\CreateMedicine\\CreateMedicineHandler.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAwA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T14:11:35.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T14:11:35.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 37,
               "Title": "CreateMedicineValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\CreateMedicine\\CreateMedicineValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\CreateMedicine\\CreateMedicineValidator.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\CreateMedicine\\CreateMedicineValidator.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\CreateMedicine\\CreateMedicineValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\CreateMedicine\\CreateMedicineValidator.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\CreateMedicine\\CreateMedicineValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -657,11 +822,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 38,
               "Title": "CreateMedicineRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\CreateMedicine\\CreateMedicineRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\CreateMedicine\\CreateMedicineRequest.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\CreateMedicine\\CreateMedicineRequest.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\CreateMedicine\\CreateMedicineRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\CreateMedicine\\CreateMedicineRequest.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\CreateMedicine\\CreateMedicineRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -669,11 +834,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 39,
               "Title": "Dto.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\Dto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\Dto.cs",
               "RelativeDocumentMoniker": "Backend.CommonDomain\\Dto.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\Dto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\Dto.cs",
               "RelativeToolTip": "Backend.CommonDomain\\Dto.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -681,11 +846,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 41,
               "Title": "ActivateUserAccountViaCodeValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ActivateUserAccountViaCode\\ActivateUserAccountViaCodeValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ActivateUserAccountViaCode\\ActivateUserAccountViaCodeValidator.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\ActivateUserAccountViaCode\\ActivateUserAccountViaCodeValidator.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ActivateUserAccountViaCode\\ActivateUserAccountViaCodeValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ActivateUserAccountViaCode\\ActivateUserAccountViaCodeValidator.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\User\\ActivateUserAccountViaCode\\ActivateUserAccountViaCodeValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -693,36 +858,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Backend\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Backend\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwCQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T15:31:51.226Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend\\Program.cs",
-              "RelativeDocumentMoniker": "Backend\\Program.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend\\Program.cs",
-              "RelativeToolTip": "Backend\\Program.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAIwE4AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T15:31:25.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 40,
               "Title": "DeleteUserValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserValidator.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserValidator.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserValidator.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -730,11 +870,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 42,
               "Title": "ActivateUserAccountViaCodeRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ActivateUserAccountViaCode\\ActivateUserAccountViaCodeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ActivateUserAccountViaCode\\ActivateUserAccountViaCodeRequest.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\ActivateUserAccountViaCode\\ActivateUserAccountViaCodeRequest.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ActivateUserAccountViaCode\\ActivateUserAccountViaCodeRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ActivateUserAccountViaCode\\ActivateUserAccountViaCodeRequest.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\User\\ActivateUserAccountViaCode\\ActivateUserAccountViaCodeRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -742,11 +882,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 43,
               "Title": "ActivateUserAccountViaCodeHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ActivateUserAccountViaCode\\ActivateUserAccountViaCodeHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ActivateUserAccountViaCode\\ActivateUserAccountViaCodeHandler.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\ActivateUserAccountViaCode\\ActivateUserAccountViaCodeHandler.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ActivateUserAccountViaCode\\ActivateUserAccountViaCodeHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ActivateUserAccountViaCode\\ActivateUserAccountViaCodeHandler.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\User\\ActivateUserAccountViaCode\\ActivateUserAccountViaCodeHandler.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAwC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -754,11 +894,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 44,
               "Title": "MongoDataBase.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Database\\MongoDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Database\\MongoDataBase.cs",
               "RelativeDocumentMoniker": "Backend.Database\\MongoDataBase.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Database\\MongoDataBase.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Database\\MongoDataBase.cs",
               "RelativeToolTip": "Backend.Database\\MongoDataBase.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAEwBIAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -766,11 +906,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 47,
               "Title": "Prescription.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\MedicineDomain\\Prescription.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\MedicineDomain\\Prescription.cs",
               "RelativeDocumentMoniker": "Backend.Domain\\MedicineDomain\\Prescription.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\MedicineDomain\\Prescription.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\MedicineDomain\\Prescription.cs",
               "RelativeToolTip": "Backend.Domain\\MedicineDomain\\Prescription.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -778,11 +918,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 46,
               "Title": "Medicine.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\MedicineDomain\\Medicine.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\MedicineDomain\\Medicine.cs",
               "RelativeDocumentMoniker": "Backend.Domain\\MedicineDomain\\Medicine.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\MedicineDomain\\Medicine.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\MedicineDomain\\Medicine.cs",
               "RelativeToolTip": "Backend.Domain\\MedicineDomain\\Medicine.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -790,11 +930,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 48,
               "Title": "Fda.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\MedicineDomain\\Fda.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\MedicineDomain\\Fda.cs",
               "RelativeDocumentMoniker": "Backend.Domain\\MedicineDomain\\Fda.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\MedicineDomain\\Fda.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\MedicineDomain\\Fda.cs",
               "RelativeToolTip": "Backend.Domain\\MedicineDomain\\Fda.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAA0wBYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -802,11 +942,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 45,
               "Title": "MedicineLabel.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\MedicineDomain\\MedicineLabel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\MedicineDomain\\MedicineLabel.cs",
               "RelativeDocumentMoniker": "Backend.Domain\\MedicineDomain\\MedicineLabel.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\MedicineDomain\\MedicineLabel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\MedicineDomain\\MedicineLabel.cs",
               "RelativeToolTip": "Backend.Domain\\MedicineDomain\\MedicineLabel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -814,11 +954,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 51,
               "Title": "MedicineRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Repositories\\MedicineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Repositories\\MedicineRepository.cs",
               "RelativeDocumentMoniker": "Backend.Repositories\\MedicineRepository.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Repositories\\MedicineRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Repositories\\MedicineRepository.cs",
               "RelativeToolTip": "Backend.Repositories\\MedicineRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -826,11 +966,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 50,
               "Title": "IMedicineRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\IMedicineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\IMedicineRepository.cs",
               "RelativeDocumentMoniker": "Backend.Domain\\IMedicineRepository.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\IMedicineRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\IMedicineRepository.cs",
               "RelativeToolTip": "Backend.Domain\\IMedicineRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -838,11 +978,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 49,
               "Title": "Result.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\MedicineDomain\\Result.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\MedicineDomain\\Result.cs",
               "RelativeDocumentMoniker": "Backend.Domain\\MedicineDomain\\Result.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\MedicineDomain\\Result.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\MedicineDomain\\Result.cs",
               "RelativeToolTip": "Backend.Domain\\MedicineDomain\\Result.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAqwB8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -850,11 +990,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 52,
               "Title": "ActivateUserAccountViaCodeResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ActivateUserAccountViaCode\\ActivateUserAccountViaCodeResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ActivateUserAccountViaCode\\ActivateUserAccountViaCodeResponse.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\ActivateUserAccountViaCode\\ActivateUserAccountViaCodeResponse.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ActivateUserAccountViaCode\\ActivateUserAccountViaCodeResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ActivateUserAccountViaCode\\ActivateUserAccountViaCodeResponse.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\User\\ActivateUserAccountViaCode\\ActivateUserAccountViaCodeResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -862,35 +1002,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "IBearerTokenService.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\BearerTokens\\IBearerTokenService.cs",
-              "RelativeDocumentMoniker": "Backend.DataAbstraction\\BearerTokens\\IBearerTokenService.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\BearerTokens\\IBearerTokenService.cs",
-              "RelativeToolTip": "Backend.DataAbstraction\\BearerTokens\\IBearerTokenService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAwAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T16:33:21.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "BearerTokenService.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\BearerTokenService.cs",
-              "RelativeDocumentMoniker": "Backend.Services\\Security\\BearerTokenService.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\BearerTokenService.cs",
-              "RelativeToolTip": "Backend.Services\\Security\\BearerTokenService.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAhwD4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T16:34:26.631Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 57,
               "Title": "GeneratedToken.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\GeneratedToken.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\GeneratedToken.cs",
               "RelativeDocumentMoniker": "Backend.Domain\\User\\GeneratedToken.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\GeneratedToken.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\GeneratedToken.cs",
               "RelativeToolTip": "Backend.Domain\\User\\GeneratedToken.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -898,11 +1014,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 55,
               "Title": "IAuthTokensService.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\BearerTokens\\IAuthTokensService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\BearerTokens\\IAuthTokensService.cs",
               "RelativeDocumentMoniker": "Backend.DataAbstraction\\BearerTokens\\IAuthTokensService.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\BearerTokens\\IAuthTokensService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\BearerTokens\\IAuthTokensService.cs",
               "RelativeToolTip": "Backend.DataAbstraction\\BearerTokens\\IAuthTokensService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -910,11 +1026,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 54,
               "Title": "AuthTokensService.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\AuthTokensService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\AuthTokensService.cs",
               "RelativeDocumentMoniker": "Backend.Services\\Security\\AuthTokensService.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\AuthTokensService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\AuthTokensService.cs",
               "RelativeToolTip": "Backend.Services\\Security\\AuthTokensService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAiwAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -922,11 +1038,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 53,
               "Title": "CreateUserRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserRequest.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserRequest.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserRequest.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -934,11 +1050,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 56,
               "Title": "TokenType.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\TokenType.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\TokenType.cs",
               "RelativeDocumentMoniker": "Backend.Domain\\User\\TokenType.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\TokenType.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\TokenType.cs",
               "RelativeToolTip": "Backend.Domain\\User\\TokenType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -946,11 +1062,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 58,
               "Title": "Backend.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj",
               "RelativeDocumentMoniker": "Backend.Domain\\Backend.Domain.csproj",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\Backend.Domain.csproj",
               "RelativeToolTip": "Backend.Domain\\Backend.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -958,11 +1074,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 60,
               "Title": "CreateUserValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserValidator.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserValidator.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserValidator.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -970,23 +1086,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "AuthentificationService.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\AuthentificationService.cs",
-              "RelativeDocumentMoniker": "Backend.Services\\Security\\AuthentificationService.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\AuthentificationService.cs",
-              "RelativeToolTip": "Backend.Services\\Security\\AuthentificationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T16:33:27.863Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 59,
               "Title": "CreateUserResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserResponse.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserResponse.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserResponse.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -994,11 +1098,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 61,
               "Title": "DeleteUserHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserHandler.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserHandler.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserHandler.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1006,11 +1110,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 63,
               "Title": "HashingService.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\HashingService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\HashingService.cs",
               "RelativeDocumentMoniker": "Backend.Services\\Security\\HashingService.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\HashingService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\HashingService.cs",
               "RelativeToolTip": "Backend.Services\\Security\\HashingService.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAgwDUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1018,36 +1122,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "IEmailSender.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\IEmailSender.cs",
               "RelativeDocumentMoniker": "Backend.DataAbstraction\\IEmailSender.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\IEmailSender.cs",
               "RelativeToolTip": "Backend.DataAbstraction\\IEmailSender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T17:12:20.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T17:12:20.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "LoginUserResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserResponse.cs",
-              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserResponse.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserResponse.cs",
-              "RelativeToolTip": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T16:15:16.259Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 62,
               "Title": "LoginUserValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserValidator.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserValidator.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserValidator.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1055,24 +1146,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "EmailSender.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\EmailSender.cs",
               "RelativeDocumentMoniker": "Backend.Services\\Security\\EmailSender.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\EmailSender.cs",
               "RelativeToolTip": "Backend.Services\\Security\\EmailSender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T17:06:13.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T17:06:13.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 65,
               "Title": "UpdateUserHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserHandler.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserHandler.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserHandler.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1080,36 +1170,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend\\appsettings.json",
-              "RelativeDocumentMoniker": "Backend\\appsettings.json",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend\\appsettings.json",
-              "RelativeToolTip": "Backend\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-15T15:50:47.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 64,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\f7155a9fbca2909cbb09c3bd2f7e98b1e88c0ace9254dd04839ba5f0fb508d76\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\f7155a9fbca2909cbb09c3bd2f7e98b1e88c0ace9254dd04839ba5f0fb508d76\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f7155a9fbca2909cbb09c3bd2f7e98b1e88c0ace9254dd04839ba5f0fb508d76\\Program.cs",
               "ToolTip": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\f7155a9fbca2909cbb09c3bd2f7e98b1e88c0ace9254dd04839ba5f0fb508d76\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\f7155a9fbca2909cbb09c3bd2f7e98b1e88c0ace9254dd04839ba5f0fb508d76\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f7155a9fbca2909cbb09c3bd2f7e98b1e88c0ace9254dd04839ba5f0fb508d76\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAACAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T16:22:45.079Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 67,
               "Title": "EmailConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\EmailConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\EmailConfig.cs",
               "RelativeDocumentMoniker": "Backend.Services\\Security\\EmailConfig.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\EmailConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\EmailConfig.cs",
               "RelativeToolTip": "Backend.Services\\Security\\EmailConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1117,11 +1194,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 66,
               "Title": "IEmailConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IEmailConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IEmailConfig.cs",
               "RelativeDocumentMoniker": "Backend.DataAbstraction\\Security\\IEmailConfig.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IEmailConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IEmailConfig.cs",
               "RelativeToolTip": "Backend.DataAbstraction\\Security\\IEmailConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1129,11 +1206,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 68,
               "Title": "IHashingSettings.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IHashingSettings.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IHashingSettings.cs",
               "RelativeDocumentMoniker": "Backend.DataAbstraction\\Security\\IHashingSettings.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IHashingSettings.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IHashingSettings.cs",
               "RelativeToolTip": "Backend.DataAbstraction\\Security\\IHashingSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1141,11 +1218,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 69,
               "Title": "HashingSettings.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\HashingSettings.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\HashingSettings.cs",
               "RelativeDocumentMoniker": "Backend.Services\\Security\\HashingSettings.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\HashingSettings.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\HashingSettings.cs",
               "RelativeToolTip": "Backend.Services\\Security\\HashingSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1153,11 +1230,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 70,
               "Title": "IHashingService.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IHashingService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IHashingService.cs",
               "RelativeDocumentMoniker": "Backend.DataAbstraction\\Security\\IHashingService.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IHashingService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IHashingService.cs",
               "RelativeToolTip": "Backend.DataAbstraction\\Security\\IHashingService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1165,11 +1242,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 74,
               "Title": "DependecyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend\\DependecyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\DependecyInjection.cs",
               "RelativeDocumentMoniker": "Backend\\DependecyInjection.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend\\DependecyInjection.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\DependecyInjection.cs",
               "RelativeToolTip": "Backend\\DependecyInjection.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1177,11 +1254,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 73,
               "Title": "UpdateUserValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserValidator.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserValidator.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserValidator.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1189,11 +1266,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 72,
               "Title": "UpdateUserResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserResponse.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserResponse.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserResponse.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1201,11 +1278,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 71,
               "Title": "UpdateUserRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserRequest.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserRequest.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserRequest.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\User\\UpdateUser\\UpdateUserRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1213,11 +1290,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 77,
               "Title": "GetUsersHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\GetUsers\\GetUsersHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\GetUsers\\GetUsersHandler.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\GetUsers\\GetUsersHandler.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\GetUsers\\GetUsersHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\GetUsers\\GetUsersHandler.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\User\\GetUsers\\GetUsersHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1225,11 +1302,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 75,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Backend\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Backend\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1237,11 +1314,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 76,
               "Title": "DeleteUserRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserRequest.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserRequest.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserRequest.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1249,11 +1326,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 78,
               "Title": "GetUsersResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\GetUsers\\GetUsersResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\GetUsers\\GetUsersResponse.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\GetUsers\\GetUsersResponse.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\GetUsers\\GetUsersResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\GetUsers\\GetUsersResponse.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\User\\GetUsers\\GetUsersResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1261,11 +1338,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 79,
               "Title": "GetUsersValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\GetUsers\\GetUsersValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\GetUsers\\GetUsersValidator.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\GetUsers\\GetUsersValidator.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\GetUsers\\GetUsersValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\GetUsers\\GetUsersValidator.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\User\\GetUsers\\GetUsersValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1273,11 +1350,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 80,
               "Title": "GetUsersRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\GetUsers\\GetUsersRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\GetUsers\\GetUsersRequest.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\GetUsers\\GetUsersRequest.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\GetUsers\\GetUsersRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\GetUsers\\GetUsersRequest.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\User\\GetUsers\\GetUsersRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1285,11 +1362,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 81,
               "Title": "DeleteUserResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserResponse.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserResponse.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserResponse.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\User\\DeleteUser\\DeleteUserResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1297,11 +1374,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 82,
               "Title": "IUser.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\IUser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\IUser.cs",
               "RelativeDocumentMoniker": "Backend.DataAbstraction\\IUser.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\IUser.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\IUser.cs",
               "RelativeToolTip": "Backend.DataAbstraction\\IUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1309,11 +1386,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 83,
               "Title": "ReplaceUserHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserHandler.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserHandler.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserHandler.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1321,24 +1398,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 27,
               "Title": "Backend.Services.csproj",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Backend.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Backend.Services.csproj",
               "RelativeDocumentMoniker": "Backend.Services\\Backend.Services.csproj",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Backend.Services.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Backend.Services.csproj",
               "RelativeToolTip": "Backend.Services\\Backend.Services.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-19T16:17:03.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T16:17:03.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 85,
               "Title": "ReplaceUserRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserRequest.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserRequest.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserRequest.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1346,11 +1422,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 84,
               "Title": "ReplaceUserValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserValidator.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserValidator.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserValidator.cs",
               "RelativeToolTip": "Backend.BusinessLogic\\User\\ReplaceUser\\ReplaceUserValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

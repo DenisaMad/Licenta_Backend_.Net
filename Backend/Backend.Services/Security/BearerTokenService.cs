@@ -43,7 +43,7 @@ namespace Backend.Services.Security
 
         public (string , string ) GenerateTokens(Domain.User.User userFromDB)
         {
-            string accessToken = this.authentificationService.GenerateAccessToken(userFromDB.Email, userFromDB.Name, userFromDB.Role);
+            string accessToken = this.authentificationService.GenerateAccessToken(userFromDB.Email, userFromDB.Name, userFromDB.Role, userFromDB.Id);
             string refreshToken = this.authentificationService.GenerateRefreshToken();
             return (accessToken, refreshToken);
         }

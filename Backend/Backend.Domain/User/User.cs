@@ -36,5 +36,6 @@ namespace Backend.Domain.User
     public UserMedicineDTO UserMedicine { get; set; }
 
     public List<string> UserNotifications { get; set; } = new List<string>();
+
   }
 }

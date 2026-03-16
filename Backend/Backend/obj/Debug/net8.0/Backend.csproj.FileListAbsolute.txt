@@ -210,3 +210,12 @@ C:\Users\Robi\Documents\Denisa\Licenta_Backend_.Net\Backend\Backend\bin\Debug\ne
 C:\Users\Robi\Documents\Denisa\Licenta_Backend_.Net\Backend\Backend\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\Robi\Documents\Denisa\Licenta_Backend_.Net\Backend\Backend\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 C:\Users\Robi\Documents\Denisa\Licenta_Backend_.Net\Backend\Backend\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Licenta_Backend_.Net\Backend\Backend\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll

@@ -32,6 +32,7 @@ namespace Backend.Services
         {
           if (user.UserMedicine is not null)
           {
+            user.UserNotifications = new List<string>();
             var distanceInHours = user.UserMedicine.Medicines.Where(
               medicine => medicine.EndDate >= currentDate.Date).ToList();
             if (distanceFromCurrentHourToMorningHour > 0 && distanceFromCurrentHourToMorningHour < distanceFromCurrentHourToEveningHour && distanceFromCurrentHourToMorningHour < distanceFromCurrentHourToNightHour && distanceFromCurrentHourToMorningHour < 2)
@@ -101,7 +102,7 @@ namespace Backend.Services
           }
         }
        
-        await Task.Delay(TimeSpan.FromMinutes(30), stoppingToken);
+        await Task.Delay(TimeSpan.FromMinutes(10), stoppingToken);
       }
     }
   }

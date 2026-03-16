@@ -1,4 +1,5 @@
-﻿using Backend.BusinessLogic.User.ActivateUserAccountViaCode;
+﻿using Backend.BusinessLogic.GetUserNotification;
+using Backend.BusinessLogic.User.ActivateUserAccountViaCode;
 using Backend.BusinessLogic.User.CreateUser;
 using Backend.BusinessLogic.User.DeleteUser;
 using Backend.BusinessLogic.User.GetUsers;
@@ -65,6 +66,14 @@ namespace Backend.Controllers
         {
             ActivateUserAccountViaCodeResponse response = await this.mediator.Send(request);
             return this.Ok(response);
+        }
+
+        [HttpGet("notifications/{userId}")]
+        public async Task<IActionResult> GetUserNotifications(string userId)
+        {
+            var request = new GetUserNotificationsRequest { UserId = userId };
+            var response = await this.mediator.Send(request);
+            return Ok(response);
         }
     }
 }

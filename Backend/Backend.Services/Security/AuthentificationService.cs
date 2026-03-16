@@ -15,7 +15,7 @@ namespace Backend.Services.Security
             throw new NotImplementedException();
         }
 
-        public string GenerateAccessToken(string email, string name, Enum role)
+        public string GenerateAccessToken(string email, string name, Enum role, string userId)
         {
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("bahdoiajfncajnfhoijnaoifanif131jdangsfdsbahdoiajfncajnfhoijnaoifanif131jdangsfdsbahdoiajfncajnfhoijnaoifanif131jdangsfds"));
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
@@ -28,6 +28,7 @@ namespace Backend.Services.Security
                     new Claim("email", email),
                     new Claim("name", name ?? string.Empty),
                     new Claim("role", GetDescription(role)),
+                    new Claim("userId", userId),
                     new Claim("tokenType", "Access" )
                 },
                 expires: DateTime.Now.AddMinutes(30),

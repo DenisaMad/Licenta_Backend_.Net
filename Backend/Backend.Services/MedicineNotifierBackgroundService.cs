@@ -174,7 +174,7 @@ namespace Backend.Services
           }
         }
 
-        await Task.Delay(TimeSpan.FromMinutes(10), stoppingToken);
+        await Task.Delay(TimeSpan.FromMinutes(1), stoppingToken);
       }
     }
 

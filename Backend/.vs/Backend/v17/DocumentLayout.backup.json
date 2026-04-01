@@ -380,6 +380,19 @@
           "SelectedChildIndex": 35,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\User.cs",
+              "RelativeDocumentMoniker": "Backend.Domain\\User\\User.cs",
+              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\User.cs",
+              "RelativeToolTip": "Backend.Domain\\User\\User.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:22:25.944Z",
+              "IsPinned": true
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
@@ -410,19 +423,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\User.cs",
-              "RelativeDocumentMoniker": "Backend.Domain\\User\\User.cs",
-              "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\User.cs",
-              "RelativeToolTip": "Backend.Domain\\User\\User.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAswCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T05:22:25.944Z",
-              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -749,7 +749,7 @@
               "RelativeDocumentMoniker": "Backend.Services\\MedicineNotifierBackgroundService.cs",
               "ToolTip": "C:\\Users\\Robi\\Documents\\Denisa\\Licenta_Backend_.Net\\Backend\\Backend.Services\\MedicineNotifierBackgroundService.cs",
               "RelativeToolTip": "Backend.Services\\MedicineNotifierBackgroundService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowG0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowG0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-23T15:35:49.038Z",
               "EditorCaption": ""

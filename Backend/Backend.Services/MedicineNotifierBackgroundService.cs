@@ -10,6 +10,7 @@ namespace Backend.Services
   public sealed class MedicineNotifierBackgroundService : BackgroundService
   {
     private readonly IServiceScopeFactory _serviceScopeFactory;
+
     public MedicineNotifierBackgroundService(IServiceScopeFactory serviceScopeFactory)
     {
       _serviceScopeFactory = serviceScopeFactory;
@@ -23,13 +24,22 @@ namespace Backend.Services
 
       while (!stoppingToken.IsCancellationRequested)
       {
-        var currentDate = DateTime.UtcNow;
-        var currentHour = currentDate.Hour;
-        var currentMinute = currentDate.Minute;
+        var now = DateTime.UtcNow;
+        var currentHour = now.Hour;
+        var currentMinute = now.Minute;
 
         int distanceFromCurrentHourToMorningHour = (8 - currentHour + 24) % 24;
         int distanceFromCurrentHourToEveningHour = (16 - currentHour + 24) % 24;
         int distanceFromCurrentHourToNightHour = (22 - currentHour + 24) % 24;
+
+        DateTime nextMorning = now.Date.AddHours(8);
+        if (nextMorning <= now) nextMorning = nextMorning.AddDays(1);
+
+        DateTime nextEvening = now.Date.AddHours(16);
+        if (nextEvening <= now) nextEvening = nextEvening.AddDays(1);
+
+        DateTime nextNight = now.Date.AddHours(22);
+        if (nextNight <= now) nextNight = nextNight.AddDays(1);
 
         var users = await userCollection.Find(_ => true).ToListAsync(stoppingToken);
 
@@ -42,7 +52,7 @@ namespace Backend.Services
             user.UserNotifications = new List<string>();
 
             var validMedicines = user.UserMedicine.Medicines
-              .Where(medicine => medicine.EndDate >= currentDate.Date)
+              .Where(medicine => medicine.EndDate >= now.Date)
               .ToList();
 
             bool shouldSendEmailMorning = distanceFromCurrentHourToMorningHour == 0 && currentMinute >= 50;
@@ -53,8 +63,10 @@ namespace Backend.Services
                 distanceFromCurrentHourToMorningHour <= distanceFromCurrentHourToEveningHour &&
                 distanceFromCurrentHourToMorningHour <= distanceFromCurrentHourToNightHour)
             {
+              var timeText = FormatTimeDifference(now, nextMorning);
+
               string message =
-                $@"{user.Name ?? user.Email}, it's time to take your morning medicines in {distanceFromCurrentHourToMorningHour} hours (at 08:00).";
+                $@"{user.Name ?? user.Email}, it's time to take your morning medicines in {timeText} (at 08:00).";
 
               if (shouldSendEmailMorning)
               {
@@ -66,7 +78,7 @@ namespace Backend.Services
                 .ToList();
 
               user.UserNotifications.Add(
-                $"You have {medicinesToTakeInMorning.Count} medicines to take in {distanceFromCurrentHourToMorningHour} hours (at 08:00).");
+                $"You have {medicinesToTakeInMorning.Count} medicines to take in {timeText} (at 08:00).");
 
               foreach (var med in medicinesToTakeInMorning)
               {
@@ -85,8 +97,10 @@ namespace Backend.Services
                      distanceFromCurrentHourToEveningHour <= distanceFromCurrentHourToMorningHour &&
                      distanceFromCurrentHourToEveningHour <= distanceFromCurrentHourToNightHour)
             {
+              var timeText = FormatTimeDifference(now, nextEvening);
+
               string message =
-                $@"{user.Name ?? user.Email}, it's time to take your evening medicines in {distanceFromCurrentHourToEveningHour} hours (at 16:00).";
+                $@"{user.Name ?? user.Email}, it's time to take your evening medicines in {timeText} (at 16:00).";
 
               if (shouldSendEmailEvening)
               {
@@ -98,7 +112,7 @@ namespace Backend.Services
                 .ToList();
 
               user.UserNotifications.Add(
-                $"You have {medicinesToTakeInEvening.Count} medicines to take in {distanceFromCurrentHourToEveningHour} hours (at 16:00).");
+                $"You have {medicinesToTakeInEvening.Count} medicines to take in {timeText} (at 16:00).");
 
               foreach (var med in medicinesToTakeInEvening)
               {
@@ -117,8 +131,10 @@ namespace Backend.Services
                      distanceFromCurrentHourToNightHour <= distanceFromCurrentHourToMorningHour &&
                      distanceFromCurrentHourToNightHour <= distanceFromCurrentHourToEveningHour)
             {
+              var timeText = FormatTimeDifference(now, nextNight);
+
               string message =
-                $@"{user.Name ?? user.Email}, it's time to take your night medicines in {distanceFromCurrentHourToNightHour} hours (at 22:00).";
+                $@"{user.Name ?? user.Email}, it's time to take your night medicines in {timeText} (at 22:00).";
 
               if (shouldSendEmailNight)
               {
@@ -130,7 +146,7 @@ namespace Backend.Services
                 .ToList();
 
               user.UserNotifications.Add(
-                $"You have {medicinesToTakeInNight.Count} medicines to take in {distanceFromCurrentHourToNightHour} hours (at 22:00).");
+                $"You have {medicinesToTakeInNight.Count} medicines to take in {timeText} (at 22:00).");
 
               foreach (var med in medicinesToTakeInNight)
               {
@@ -158,8 +174,18 @@ namespace Backend.Services
           }
         }
 
-        await Task.Delay(TimeSpan.FromMinutes(1), stoppingToken);
+        await Task.Delay(TimeSpan.FromMinutes(10), stoppingToken);
       }
+    }
+
+    private static string FormatTimeDifference(DateTime now, DateTime target)
+    {
+      var diff = target - now;
+
+      int hours = (int)diff.TotalHours;
+      int minutes = diff.Minutes;
+
+      return $"{hours} hours and {minutes} minutes";
     }
   }
 }

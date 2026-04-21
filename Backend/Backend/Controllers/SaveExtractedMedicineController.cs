@@ -1,13 +1,15 @@
 ﻿using Backend.BusinessLogic.CreateMedicine;
 using Backend.BusinessLogic.MedicineDTO;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Backend.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class SaveExtractedMedicineController: ControllerBase
+    [Authorize]
+    public class SaveExtractedMedicineController : ControllerBase
     {
         private readonly IMediator _mediator;
 

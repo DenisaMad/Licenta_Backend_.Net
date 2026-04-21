@@ -24,12 +24,17 @@ namespace Backend.BusinessLogic.GetUserNotification
 
             if (user == null)
             {
-                return new GetUserNotificationsResponse { Notifications = new List<string>() };
+                return new GetUserNotificationsResponse
+                {
+                    Notifications = new List<string>(),
+                    Medicines = new List<Backend.CommonDomain.MedicineDTO>()
+                };
             }
 
             return new GetUserNotificationsResponse
             {
-                Notifications = user.UserNotifications ?? new List<string>()
+                Notifications = user.UserNotifications ?? new List<string>(),
+                Medicines = user.UserMedicine?.Medicines ?? new List<Backend.CommonDomain.MedicineDTO>()
             };
         }
     }

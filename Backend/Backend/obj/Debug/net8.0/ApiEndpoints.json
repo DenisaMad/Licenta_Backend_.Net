@@ -1,5 +1,15 @@
 [
   {
+    "ContainingType": "Backend.Controllers.CryptoController",
+    "Method": "GetPublicKey",
+    "RelativePath": "Crypto/PublicKey",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Backend.Controllers.MedicineController",
     "Method": "RegisterMedicine",
     "RelativePath": "Medicine/{name}",
@@ -147,6 +157,22 @@
   },
   {
     "ContainingType": "Backend.Controllers.UsersController",
+    "Method": "MarkMedicineTaken",
+    "RelativePath": "Users/MarkMedicineTaken",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Backend.BusinessLogic.User.MarkMedicineTaken.MarkMedicineTakenRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend.Controllers.UsersController",
     "Method": "GetUserNotifications",
     "RelativePath": "Users/notifications/{userId}",
     "HttpMethod": "GET",
@@ -156,6 +182,22 @@
       {
         "Name": "userId",
         "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend.Controllers.UsersController",
+    "Method": "RefreshToken",
+    "RelativePath": "Users/RefreshToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Backend.BusinessLogic.User.RefreshToken.RefreshTokenRequest",
         "IsRequired": true
       }
     ],

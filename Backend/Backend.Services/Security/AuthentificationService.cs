@@ -46,7 +46,7 @@ namespace Backend.Services.Security
                 issuer: "your_issuer",
                 audience: "your_audience",
                 claims: new List<Claim>(),
-                expires: DateTime.Now.AddMinutes(30),
+                expires: DateTime.Now.AddYears(1),
                 signingCredentials: creds);
 
             return new JwtSecurityTokenHandler().WriteToken(token);

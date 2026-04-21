@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Backend.BusinessLogic.User.RefreshToken
+﻿namespace Backend.BusinessLogic.User.RefreshToken
 {
-    internal class RefreshTokenResponse
+    public class RefreshTokenResponse
     {
+        public string AccessToken { get; set; }
+        public string RefreshToken { get; set; }
+        public bool Success { get; set; } = true;
+        public string ErrorMessage { get; set; }
     }
 }

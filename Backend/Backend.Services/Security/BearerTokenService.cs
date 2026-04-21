@@ -28,20 +28,20 @@ namespace Backend.Services.Security
 
         public async Task<(string AccessToken, string RefreshToken)> IssueNewTokensAsync(User user)
         {
-            
+
             await BlackList(user);
 
-            
+
             var (newAccessToken, newRefreshToken) = GenerateTokens(user);
 
-            
+
             await UpdateTokens(user, newAccessToken, newRefreshToken);
 
-            
+
             return (newAccessToken, newRefreshToken);
         }
 
-        public (string , string ) GenerateTokens(Domain.User.User userFromDB)
+        public (string, string) GenerateTokens(Domain.User.User userFromDB)
         {
             string accessToken = this.authentificationService.GenerateAccessToken(userFromDB.Email, userFromDB.Name, userFromDB.Role, userFromDB.Id);
             string refreshToken = this.authentificationService.GenerateRefreshToken();
@@ -57,12 +57,11 @@ namespace Backend.Services.Security
         }
         private async Task BlackList(Domain.User.User userFromDB)
         {
-            string refreshToken = this.authentificationService.GenerateRefreshToken();
-            if (string.IsNullOrEmpty(userFromDB.RefreshToken))
+            if (!string.IsNullOrEmpty(userFromDB.RefreshToken))
             {
                 await this.authTokensService.BlackListToken(userFromDB.RefreshToken, TokenType.REFRESH_TOKEN, userFromDB.Id);
             }
-            if (string.IsNullOrEmpty(userFromDB.AccessToken))
+            if (!string.IsNullOrEmpty(userFromDB.AccessToken))
             {
                 await this.authTokensService.BlackListToken(userFromDB.AccessToken, TokenType.ACCESS_TOKEN, userFromDB.Id);
             }

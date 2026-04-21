@@ -1,6 +1,7 @@
 ﻿using Backend.BusinessLogic.CreateMedicine;
 using Backend.DataAbstraction.Security;
 using Backend.Domain.MedicineDomain;
+using Microsoft.AspNetCore.Authorization;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Cryptography.X509Certificates;
@@ -12,6 +13,7 @@ namespace Backend.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    [Authorize]
     public class MedicineController : ControllerBase
     {
         private readonly IMediator _mediator;

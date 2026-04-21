@@ -11,5 +11,6 @@ namespace Backend.DataAbstraction.BearerTokens
     public interface IBearerTokenService
     {
         public (string ,string ) GenerateTokens(Domain.User.User userFromDB);
+        Task<(string AccessToken, string RefreshToken)> IssueNewTokensAsync(Domain.User.User user);
     }
 }

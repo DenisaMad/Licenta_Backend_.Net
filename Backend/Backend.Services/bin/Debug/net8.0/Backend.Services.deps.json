@@ -293,6 +293,7 @@
       "Backend.DataAbstraction/1.0.0": {
         "dependencies": {
           "Backend.Domain": "1.0.0",
+          "Microsoft.Extensions.Configuration.Abstractions": "10.0.2",
           "MongoDB.Driver": "3.4.0"
         },
         "runtime": {

@@ -14,5 +14,9 @@ namespace Backend.CommonDomain
         public int CountNight { get; set; }
         public DateTime StartDate { get; set; }
         public DateTime EndDate { get; set; }
+
+        public bool TakenMorning { get; set; }
+        public bool TakenNoon { get; set; }
+        public bool TakenEvening { get; set; }
     }
 }

@@ -9,33 +9,35 @@ using System.Threading.Tasks;
 
 namespace Backend.Domain.User
 {
-  public class User
-  {
-    [BsonId]
-    [BsonRepresentation(BsonType.ObjectId)]
-    public string? Id { get; set; } = null;
-    public string Name { get; set; }
-    public string Email { get; set; }
-    public string Password { get; set; }
+    public class User
+    {
+        [BsonId]
+        [BsonRepresentation(BsonType.ObjectId)]
+        public string? Id { get; set; } = null;
+        public string Name { get; set; }
+        public string Email { get; set; }
+        public string Password { get; set; }
 
-    public string? Salt { get; set; }
-    public string PhoneNumber { get; set; }
-    public int Age { get; set; }
+        public string? Salt { get; set; }
+        public string PhoneNumber { get; set; }
+        public int Age { get; set; }
 
-    public EUserRole Role { get; set; }
+        public EUserRole Role { get; set; }
 
-    public string AccessToken { get; set; }
+        public string AccessToken { get; set; }
 
-    public string RefreshToken { get; set; }
+        public string RefreshToken { get; set; }
 
-    public bool ActiveAccount { get; set; } = false;
-    public string ActiveAccountCode { get; set; }
+        public bool ActiveAccount { get; set; } = false;
+        public string ActiveAccountCode { get; set; }
 
-    public List<GeneratedToken> GeneratedTokens { get; set; }
+        public List<GeneratedToken> GeneratedTokens { get; set; }
 
-    public UserMedicineDTO UserMedicine { get; set; }
+        public UserMedicineDTO UserMedicine { get; set; }
 
-    public List<string> UserNotifications { get; set; } = new List<string>();
+        public List<string> UserNotifications { get; set; } = new List<string>();
 
-  }
+        public DateTime? LastResetDate { get; set; }
+
+    }
 }

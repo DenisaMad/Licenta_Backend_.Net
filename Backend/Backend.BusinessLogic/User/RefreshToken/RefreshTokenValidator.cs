@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace Backend.BusinessLogic.User.RefreshToken
 {
-    internal class RefreshTokenValidator
+    using FluentValidation;
+
+    public class RefreshTokenValidator : AbstractValidator<RefreshTokenRequest>
     {
+        public RefreshTokenValidator()
+        {
+            RuleFor(x => x.RefreshToken).NotEmpty().WithMessage("Refresh token is required.");
+        }
     }
 }

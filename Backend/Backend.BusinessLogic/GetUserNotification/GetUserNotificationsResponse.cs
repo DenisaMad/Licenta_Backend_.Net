@@ -9,5 +9,6 @@ namespace Backend.BusinessLogic.GetUserNotification
     public class GetUserNotificationsResponse
     {
         public List<string> Notifications { get; set; }
+        public List<Backend.CommonDomain.MedicineDTO> Medicines { get; set; }
     }
 }

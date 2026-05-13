@@ -44,7 +44,7 @@ namespace Backend.Services
       var content = new ByteArrayContent(imageBytes);
       content.Headers.ContentType = new System.Net.Http.Headers.MediaTypeHeaderValue("application/pdf");
 
-      var response = await _http.PostAsync("http://localhost:8000/api/predict_by_byte", content);
+      var response = await _http.PostAsync("http://localhost:8000/api/predict/", content);
 
       if (!response.IsSuccessStatusCode)
       {

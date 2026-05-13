@@ -139,6 +139,7 @@ internal class Program
 
         app.UseAuthentication();
         app.UseMiddleware<Backend.Middleware.CustomAuthorizationMiddleware>();
+        app.UseMiddleware<Backend.Middleware.EncryptionMiddleware>();
 
         app.UseAuthorization();
 

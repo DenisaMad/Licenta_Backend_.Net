@@ -3,8 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.services\\djangoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\djangoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\processmedicineimage\\processmedicineimagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\processmedicineimage\\processmedicineimagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.services\\medicinenotifierbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\medicinenotifierbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend\\middleware\\encryptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\middleware\\encryptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\createuser\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\createuser\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\createuser\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\createuser\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\loginuser\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\loginuser\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\loginuser\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\loginuser\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend\\controllers\\photocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\photocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend\\middleware\\customauthorizationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\middleware\\customauthorizationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend\\controllers\\cryptocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.domain\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.dataabstraction\\security\\rsakeyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,10 +79,6 @@
       "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend\\middleware\\encryptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\middleware\\encryptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\markmedicinetaken\\markmedicinetakenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\markmedicinetaken\\markmedicinetakenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -55,16 +95,8 @@
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\getusernotification\\getusernotificationsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\markmedicinetaken\\markmedicinetakenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\markmedicinetaken\\markmedicinetakenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\processmedicineimage\\processmedicineimagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\processmedicineimage\\processmedicineimagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB5C327A-43E3-4200-B6BA-F72A02D7DBDA}|Backend.CommonDomain\\Backend.CommonDomain.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.commondomain\\medicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,10 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend\\controllers\\saveextractedmedicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\saveextractedmedicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend\\middleware\\customauthorizationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\middleware\\customauthorizationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\refreshtoken\\refreshtokenvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -103,10 +131,6 @@
       "RelativeMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|solutionrelative:backend.dataabstraction\\bearertokens\\ibearertokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\loginuser\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\loginuser\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.services\\security\\bearertokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\security\\bearertokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -117,10 +141,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.services\\security\\authtokensservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\security\\authtokensservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend\\controllers\\photocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\photocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11B91DD9-BA93-4085-B508-099045750F19}|Backend\\Backend.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -137,10 +157,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.domain\\medicinedomain\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73403E67-C66A-45C4-9E00-141171AF9C55}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\medicinedomain\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.services\\djangoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E928DEA9-827C-415F-9642-AD3F18F8E9D5}|Backend.Services\\Backend.Services.csproj|solutionrelative:backend.services\\djangoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\processmedicineimage\\processmedicineimagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -183,14 +199,6 @@
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\loginuser\\loginuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\loginuser\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\loginuser\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\processmedicineimage\\processmedicineimageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\processmedicineimage\\processmedicineimageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -215,16 +223,8 @@
       "RelativeMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|solutionrelative:backend.dataabstraction\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\createuser\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\createuser\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\createuser\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\createuser\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.businesslogic\\user\\createuser\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F6249C-25EC-424E-AF11-43B62CF44927}|Backend.BusinessLogic\\Backend.BusinessLogic.csproj|solutionrelative:backend.businesslogic\\user\\createuser\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{73D41E83-9828-43BF-80E0-077B6EC8DB25}|Backend.DataAbstraction\\Backend.DataAbstraction.csproj|c:\\users\\user\\desktop\\licenta_backend_.net\\backend\\backend.dataabstraction\\security\\iauthentificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -421,22 +421,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 13,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\User.cs",
-              "RelativeDocumentMoniker": "Backend.Domain\\User\\User.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\User.cs",
-              "RelativeToolTip": "Backend.Domain\\User\\User.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T05:22:25.944Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -471,31 +457,198 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IRsaKeyProvider.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IRsaKeyProvider.cs",
-              "RelativeDocumentMoniker": "Backend.DataAbstraction\\Security\\IRsaKeyProvider.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IRsaKeyProvider.cs",
-              "RelativeToolTip": "Backend.DataAbstraction\\Security\\IRsaKeyProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\User.cs",
+              "RelativeDocumentMoniker": "Backend.Domain\\User\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\User.cs",
+              "RelativeToolTip": "Backend.Domain\\User\\User.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T19:01:20.675Z"
+              "WhenOpened": "2025-08-02T05:22:25.944Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "LoginUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserHandler.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserHandler.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:15:41.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MedicineNotifierBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\MedicineNotifierBackgroundService.cs",
+              "RelativeDocumentMoniker": "Backend.Services\\MedicineNotifierBackgroundService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\MedicineNotifierBackgroundService.cs",
+              "RelativeToolTip": "Backend.Services\\MedicineNotifierBackgroundService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T15:35:49.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAIwHwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:31:25.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProcessMedicineImageHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageHandler.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageHandler.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T15:15:10.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DjangoService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\DjangoService.cs",
+              "RelativeDocumentMoniker": "Backend.Services\\DjangoService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\DjangoService.cs",
+              "RelativeToolTip": "Backend.Services\\DjangoService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAMwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T15:19:46.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserHandler.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserHandler.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserHandler.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:10:36.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "EncryptionMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Middleware\\EncryptionMiddleware.cs",
               "RelativeDocumentMoniker": "Backend\\Middleware\\EncryptionMiddleware.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Middleware\\EncryptionMiddleware.cs",
               "RelativeToolTip": "Backend\\Middleware\\EncryptionMiddleware.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAuwHEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T19:00:11.792Z"
+              "WhenOpened": "2026-04-13T19:00:11.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserRequest.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserRequest.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T17:29:30.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAgwFUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:31:51.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserRequest.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserRequest.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:23:20.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserValidator.cs",
+              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserValidator.cs",
+              "RelativeToolTip": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T08:12:47.054Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "PhotoController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\PhotoController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\PhotoController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\PhotoController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\PhotoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:30:02.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomAuthorizationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Middleware\\CustomAuthorizationMiddleware.cs",
+              "RelativeDocumentMoniker": "Backend\\Middleware\\CustomAuthorizationMiddleware.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Middleware\\CustomAuthorizationMiddleware.cs",
+              "RelativeToolTip": "Backend\\Middleware\\CustomAuthorizationMiddleware.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:58:14.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CryptoController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\CryptoController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\CryptoController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\CryptoController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\CryptoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T19:02:55.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "GetUserNotificationsHandler.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\GetUserNotification\\GetUserNotificationsHandler.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\GetUserNotification\\GetUserNotificationsHandler.cs",
@@ -507,46 +660,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Program.cs",
-              "RelativeDocumentMoniker": "Backend\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Program.cs",
-              "RelativeToolTip": "Backend\\Program.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAIwGwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "IRsaKeyProvider.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IRsaKeyProvider.cs",
+              "RelativeDocumentMoniker": "Backend.DataAbstraction\\Security\\IRsaKeyProvider.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\IRsaKeyProvider.cs",
+              "RelativeToolTip": "Backend.DataAbstraction\\Security\\IRsaKeyProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T15:31:25.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T19:01:20.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CryptoController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\CryptoController.cs",
-              "RelativeDocumentMoniker": "Backend\\Controllers\\CryptoController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\CryptoController.cs",
-              "RelativeToolTip": "Backend\\Controllers\\CryptoController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAmwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T19:02:55.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MedicineNotifierBackgroundService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\MedicineNotifierBackgroundService.cs",
-              "RelativeDocumentMoniker": "Backend.Services\\MedicineNotifierBackgroundService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\MedicineNotifierBackgroundService.cs",
-              "RelativeToolTip": "Backend.Services\\MedicineNotifierBackgroundService.cs",
-              "ViewState": "AgIAAMgAAAAAAAAAAAAqwNAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T15:35:49.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "RsaKeyProvider.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\RsaKeyProvider.cs",
               "RelativeDocumentMoniker": "Backend.DataAbstraction\\Security\\RsaKeyProvider.cs",
@@ -558,7 +684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "EncryptionModels.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\Security\\EncryptionModels.cs",
               "RelativeDocumentMoniker": "Backend.DataAbstraction\\Security\\EncryptionModels.cs",
@@ -570,7 +696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "MarkMedicineTakenRequest.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\MarkMedicineTaken\\MarkMedicineTakenRequest.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\MarkMedicineTaken\\MarkMedicineTakenRequest.cs",
@@ -582,7 +708,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "MarkMedicineTakenHandler.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\MarkMedicineTaken\\MarkMedicineTakenHandler.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\MarkMedicineTaken\\MarkMedicineTakenHandler.cs",
@@ -594,19 +720,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Backend\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Backend\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAuwG0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T15:31:51.226Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\appsettings.json",
               "RelativeDocumentMoniker": "Backend\\appsettings.json",
@@ -618,7 +732,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "GetUserNotificationsResponse.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\GetUserNotification\\GetUserNotificationsResponse.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\GetUserNotification\\GetUserNotificationsResponse.cs",
@@ -630,7 +744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "MarkMedicineTakenResponse.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\MarkMedicineTaken\\MarkMedicineTakenResponse.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\MarkMedicineTaken\\MarkMedicineTakenResponse.cs",
@@ -642,7 +756,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "SaveExtractedMedicineController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\SaveExtractedMedicineController.cs",
               "RelativeDocumentMoniker": "Backend\\Controllers\\SaveExtractedMedicineController.cs",
@@ -654,19 +768,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CustomAuthorizationMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Middleware\\CustomAuthorizationMiddleware.cs",
-              "RelativeDocumentMoniker": "Backend\\Middleware\\CustomAuthorizationMiddleware.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Middleware\\CustomAuthorizationMiddleware.cs",
-              "RelativeToolTip": "Backend\\Middleware\\CustomAuthorizationMiddleware.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAqwEMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T19:58:14.669Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "MedicineDTO.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\MedicineDTO.cs",
               "RelativeDocumentMoniker": "Backend.CommonDomain\\MedicineDTO.cs",
@@ -678,19 +780,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ProcessMedicineImageHandler.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageHandler.cs",
-              "RelativeDocumentMoniker": "Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageHandler.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageHandler.cs",
-              "RelativeToolTip": "Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageHandler.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAqwDUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T15:15:10.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "RefreshTokenValidator.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\RefreshToken\\RefreshTokenValidator.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\RefreshToken\\RefreshTokenValidator.cs",
@@ -702,7 +792,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "RefreshTokenResponse.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\RefreshToken\\RefreshTokenResponse.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\RefreshToken\\RefreshTokenResponse.cs",
@@ -714,7 +804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "RefreshTokenRequest.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\RefreshToken\\RefreshTokenRequest.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\RefreshToken\\RefreshTokenRequest.cs",
@@ -726,7 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "RefreshTokenHandler.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\RefreshToken\\RefreshTokenHandler.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\RefreshToken\\RefreshTokenHandler.cs",
@@ -738,7 +828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "CreateMedicineHandler.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\CreateMedicine\\CreateMedicineHandler.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\CreateMedicine\\CreateMedicineHandler.cs",
@@ -750,7 +840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "IBearerTokenService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\BearerTokens\\IBearerTokenService.cs",
               "RelativeDocumentMoniker": "Backend.DataAbstraction\\BearerTokens\\IBearerTokenService.cs",
@@ -762,7 +852,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "AuthentificationService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\AuthentificationService.cs",
               "RelativeDocumentMoniker": "Backend.Services\\Security\\AuthentificationService.cs",
@@ -774,7 +864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "BearerTokenService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\BearerTokenService.cs",
               "RelativeDocumentMoniker": "Backend.Services\\Security\\BearerTokenService.cs",
@@ -786,7 +876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "AuthTokensService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\AuthTokensService.cs",
               "RelativeDocumentMoniker": "Backend.Services\\Security\\AuthTokensService.cs",
@@ -798,31 +888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "LoginUserHandler.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserHandler.cs",
-              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserHandler.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserHandler.cs",
-              "RelativeToolTip": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserHandler.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAuwD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T17:15:41.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "PhotoController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\PhotoController.cs",
-              "RelativeDocumentMoniker": "Backend\\Controllers\\PhotoController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\PhotoController.cs",
-              "RelativeToolTip": "Backend\\Controllers\\PhotoController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T13:30:02.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "MedicineController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Controllers\\MedicineController.cs",
               "RelativeDocumentMoniker": "Backend\\Controllers\\MedicineController.cs",
@@ -834,7 +900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Backend\\Properties\\launchSettings.json",
@@ -846,7 +912,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "Backend",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend\\Backend.csproj",
               "RelativeDocumentMoniker": "Backend\\Backend.csproj",
@@ -857,7 +923,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "HashingSettings.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\HashingSettings.cs",
               "RelativeDocumentMoniker": "Backend.Services\\Security\\HashingSettings.cs",
@@ -869,19 +935,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "DjangoService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\DjangoService.cs",
-              "RelativeDocumentMoniker": "Backend.Services\\DjangoService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\DjangoService.cs",
-              "RelativeToolTip": "Backend.Services\\DjangoService.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAEwCsAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T15:19:46.164Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 41,
               "Title": "HashingService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\HashingService.cs",
               "RelativeDocumentMoniker": "Backend.Services\\Security\\HashingService.cs",
@@ -893,7 +947,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 42,
               "Title": "EmailSender.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Services\\Security\\EmailSender.cs",
               "RelativeDocumentMoniker": "Backend.Services\\Security\\EmailSender.cs",
@@ -905,7 +959,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 43,
               "Title": "Prescription.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\MedicineDomain\\Prescription.cs",
               "RelativeDocumentMoniker": "Backend.Domain\\MedicineDomain\\Prescription.cs",
@@ -917,7 +971,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 44,
               "Title": "TokenType.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\TokenType.cs",
               "RelativeDocumentMoniker": "Backend.Domain\\User\\TokenType.cs",
@@ -929,7 +983,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 45,
               "Title": "AuthResponse.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\AuthResponse.cs",
               "RelativeDocumentMoniker": "Backend.Domain\\User\\AuthResponse.cs",
@@ -941,7 +995,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 46,
               "Title": "GeneratedToken.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\User\\GeneratedToken.cs",
               "RelativeDocumentMoniker": "Backend.Domain\\User\\GeneratedToken.cs",
@@ -953,19 +1007,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "CreateUserHandler.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserHandler.cs",
-              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserHandler.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserHandler.cs",
-              "RelativeToolTip": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserHandler.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAxwDEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T17:10:36.396Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "ProcessMedicineImageResponse.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageResponse.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageResponse.cs",
@@ -977,19 +1019,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "LoginUserRequest.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserRequest.cs",
-              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserRequest.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserRequest.cs",
-              "RelativeToolTip": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-22T17:29:30.256Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 48,
               "Title": "LoginUserResponse.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserResponse.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserResponse.cs",
@@ -1001,7 +1031,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 47,
               "Title": "LoginUserValidator.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\LoginUser\\LoginUserValidator.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\LoginUser\\LoginUserValidator.cs",
@@ -1013,7 +1043,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "ProcessMedicineImageRequest.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageRequest.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\ProcessMedicineImage\\ProcessMedicineImageRequest.cs",
@@ -1025,7 +1055,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "UserMedicineDTO.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.CommonDomain\\UserMedicineDTO.cs",
               "RelativeDocumentMoniker": "Backend.CommonDomain\\UserMedicineDTO.cs",
@@ -1037,7 +1067,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Repositories\\Class1.cs",
               "RelativeDocumentMoniker": "Backend.Repositories\\Class1.cs",
@@ -1049,7 +1079,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "MongoDataBase.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Database\\MongoDataBase.cs",
               "RelativeDocumentMoniker": "Backend.Database\\MongoDataBase.cs",
@@ -1061,7 +1091,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "IUser.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.DataAbstraction\\IUser.cs",
               "RelativeDocumentMoniker": "Backend.DataAbstraction\\IUser.cs",
@@ -1073,19 +1103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "CreateUserValidator.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserValidator.cs",
-              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserValidator.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserValidator.cs",
-              "RelativeToolTip": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T08:12:47.054Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "CreateUserResponse.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserResponse.cs",
               "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserResponse.cs",
@@ -1097,7 +1115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "MedicineRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Repositories\\MedicineRepository.cs",
               "RelativeDocumentMoniker": "Backend.Repositories\\MedicineRepository.cs",
@@ -1106,18 +1124,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T14:14:26.341Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "CreateUserRequest.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserRequest.cs",
-              "RelativeDocumentMoniker": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserRequest.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.BusinessLogic\\User\\CreateUser\\CreateUserRequest.cs",
-              "RelativeToolTip": "Backend.BusinessLogic\\User\\CreateUser\\CreateUserRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T15:23:20.9Z"
             },
             {
               "$type": "Document",
@@ -1325,7 +1331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "Medicine.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Licenta_Backend_.Net\\Backend\\Backend.Domain\\MedicineDomain\\Medicine.cs",
               "RelativeDocumentMoniker": "Backend.Domain\\MedicineDomain\\Medicine.cs",

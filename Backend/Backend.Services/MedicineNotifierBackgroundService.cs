@@ -71,118 +71,79 @@ namespace Backend.Services
                           .Where(medicine => medicine.EndDate >= now.Date)
                           .ToList();
 
+                        var medicinesToTakeInMorning = validMedicines.Where(m => m.CountMorning > 0 && !m.TakenMorning).ToList();
+                        var medicinesToTakeInEvening = validMedicines.Where(m => m.CountAfterNon > 0 && !m.TakenNoon).ToList();
+                        var medicinesToTakeInNight = validMedicines.Where(m => m.CountNight > 0 && !m.TakenEvening).ToList();
+
                         bool shouldSendEmailMorning = distanceFromCurrentHourToMorningHour == 0 && currentMinute >= 50;
                         bool shouldSendEmailEvening = distanceFromCurrentHourToEveningHour == 0 && currentMinute >= 50;
                         bool shouldSendEmailNight = distanceFromCurrentHourToNightHour == 0 && currentMinute >= 50;
 
-                        if (distanceFromCurrentHourToMorningHour >= 0 &&
-                            distanceFromCurrentHourToMorningHour <= distanceFromCurrentHourToEveningHour &&
-                            distanceFromCurrentHourToMorningHour <= distanceFromCurrentHourToNightHour)
+                        if (shouldSendEmailMorning && medicinesToTakeInMorning.Count > 0)
                         {
                             var timeText = FormatTimeDifference(now, nextMorning);
-
-                            string message =
-                              $@"{user.Name ?? user.Email}, it's time to take your morning medicines in {timeText} (at 08:00).";
-
-                            var medicinesToTakeInMorning = validMedicines
-                              .Where(medicine => medicine.CountMorning > 0 && !medicine.TakenMorning)
-                              .ToList();
-
-                            if (medicinesToTakeInMorning.Count > 0)
-                            {
-                                if (shouldSendEmailMorning)
-                                {
-                                    emailService.SendEmail(user.Email, "Medicine Reminder - Morning Dose", message);
-                                }
-
-                                user.UserNotifications.Add(
-                                  $"You have {medicinesToTakeInMorning.Count} medicines to take in {timeText} (at 08:00).");
-
-                                foreach (var med in medicinesToTakeInMorning)
-                                {
-                                    user.UserNotifications.Add(
-                                      $"- You are required to take {med.MedicineName}, Dosage: {med.CountMorning}");
-                                }
-
-                                await userCollection.ReplaceOneAsync(
-                                  u => u.Id == user.Id,
-                                  user,
-                                  cancellationToken: stoppingToken);
-
-                                notificationsFound = true;
-                            }
+                            string message = $@"{user.Name ?? user.Email}, it's time to take your morning medicines in {timeText} (at 08:00).";
+                            emailService.SendEmail(user.Email, "Medicine Reminder - Morning Dose", message);
                         }
-                        else if (distanceFromCurrentHourToEveningHour >= 0 &&
-                                 distanceFromCurrentHourToEveningHour <= distanceFromCurrentHourToMorningHour &&
-                                 distanceFromCurrentHourToEveningHour <= distanceFromCurrentHourToNightHour)
+                        if (shouldSendEmailEvening && medicinesToTakeInEvening.Count > 0)
                         {
                             var timeText = FormatTimeDifference(now, nextEvening);
-
-                            string message =
-                              $@"{user.Name ?? user.Email}, it's time to take your evening medicines in {timeText} (at 16:00).";
-
-                            var medicinesToTakeInEvening = validMedicines
-                              .Where(medicine => medicine.CountAfterNon > 0 && !medicine.TakenNoon)
-                              .ToList();
-
-                            if (medicinesToTakeInEvening.Count > 0)
-                            {
-                                if (shouldSendEmailEvening)
-                                {
-                                    emailService.SendEmail(user.Email, "Medicine Reminder - Evening Dose", message);
-                                }
-
-                                user.UserNotifications.Add(
-                                  $"You have {medicinesToTakeInEvening.Count} medicines to take in {timeText} (at 16:00).");
-
-                                foreach (var med in medicinesToTakeInEvening)
-                                {
-                                    user.UserNotifications.Add(
-                                      $"- You are required to take {med.MedicineName}, Dosage: {med.CountAfterNon}");
-                                }
-
-                                await userCollection.ReplaceOneAsync(
-                                  u => u.Id == user.Id,
-                                  user,
-                                  cancellationToken: stoppingToken);
-
-                                notificationsFound = true;
-                            }
+                            string message = $@"{user.Name ?? user.Email}, it's time to take your evening medicines in {timeText} (at 16:00).";
+                            emailService.SendEmail(user.Email, "Medicine Reminder - Evening Dose", message);
                         }
-                        else if (distanceFromCurrentHourToNightHour >= 0 &&
-                                 distanceFromCurrentHourToNightHour <= distanceFromCurrentHourToMorningHour &&
-                                 distanceFromCurrentHourToNightHour <= distanceFromCurrentHourToEveningHour)
+                        if (shouldSendEmailNight && medicinesToTakeInNight.Count > 0)
                         {
                             var timeText = FormatTimeDifference(now, nextNight);
+                            string message = $@"{user.Name ?? user.Email}, it's time to take your night medicines in {timeText} (at 22:00).";
+                            emailService.SendEmail(user.Email, "Medicine Reminder - Night Dose", message);
+                        }
 
-                            string message =
-                              $@"{user.Name ?? user.Email}, it's time to take your night medicines in {timeText} (at 22:00).";
-
-                            var medicinesToTakeInNight = validMedicines
-                              .Where(medicine => medicine.CountNight > 0 && !medicine.TakenEvening)
-                              .ToList();
-
-                            if (medicinesToTakeInNight.Count > 0)
+                        // Notification Logic
+                        if (currentHour >= 8 && currentHour < 16 && medicinesToTakeInMorning.Count > 0)
+                        {
+                            user.UserNotifications.Add($"You currently have {medicinesToTakeInMorning.Count} active medicines to take this morning.");
+                            foreach (var med in medicinesToTakeInMorning)
+                                user.UserNotifications.Add($"- You are required to take {med.MedicineName}, Dosage: {med.CountMorning}");
+                            notificationsFound = true;
+                        }
+                        else if (currentHour >= 16 && currentHour < 22 && medicinesToTakeInEvening.Count > 0)
+                        {
+                            user.UserNotifications.Add($"You currently have {medicinesToTakeInEvening.Count} active medicines to take this afternoon.");
+                            foreach (var med in medicinesToTakeInEvening)
+                                user.UserNotifications.Add($"- You are required to take {med.MedicineName}, Dosage: {med.CountAfterNon}");
+                            notificationsFound = true;
+                        }
+                        else if (currentHour >= 22 && medicinesToTakeInNight.Count > 0)
+                        {
+                            user.UserNotifications.Add($"You currently have {medicinesToTakeInNight.Count} active medicines to take tonight.");
+                            foreach (var med in medicinesToTakeInNight)
+                                user.UserNotifications.Add($"- You are required to take {med.MedicineName}, Dosage: {med.CountNight}");
+                            notificationsFound = true;
+                        }
+                        else
+                        {
+                            if (currentHour < 8 && medicinesToTakeInMorning.Count > 0)
                             {
-                                if (shouldSendEmailNight)
-                                {
-                                    emailService.SendEmail(user.Email, "Medicine Reminder - Night Dose", message);
-                                }
-
-                                user.UserNotifications.Add(
-                                  $"You have {medicinesToTakeInNight.Count} medicines to take in {timeText} (at 22:00).");
-
+                                var timeText = FormatTimeDifference(now, nextMorning);
+                                user.UserNotifications.Add($"You have {medicinesToTakeInMorning.Count} medicines to take in {timeText} (at 08:00).");
+                                foreach (var med in medicinesToTakeInMorning)
+                                    user.UserNotifications.Add($"- You are required to take {med.MedicineName}, Dosage: {med.CountMorning}");
+                                notificationsFound = true;
+                            }
+                            else if (currentHour < 16 && medicinesToTakeInEvening.Count > 0)
+                            {
+                                var timeText = FormatTimeDifference(now, nextEvening);
+                                user.UserNotifications.Add($"You have {medicinesToTakeInEvening.Count} medicines to take in {timeText} (at 16:00).");
+                                foreach (var med in medicinesToTakeInEvening)
+                                    user.UserNotifications.Add($"- You are required to take {med.MedicineName}, Dosage: {med.CountAfterNon}");
+                                notificationsFound = true;
+                            }
+                            else if (currentHour < 22 && medicinesToTakeInNight.Count > 0)
+                            {
+                                var timeText = FormatTimeDifference(now, nextNight);
+                                user.UserNotifications.Add($"You have {medicinesToTakeInNight.Count} medicines to take in {timeText} (at 22:00).");
                                 foreach (var med in medicinesToTakeInNight)
-                                {
-                                    user.UserNotifications.Add(
-                                      $"- You are required to take {med.MedicineName}, Dosage: {med.CountNight}");
-                                }
-
-                                await userCollection.ReplaceOneAsync(
-                                  u => u.Id == user.Id,
-                                  user,
-                                  cancellationToken: stoppingToken);
-
+                                    user.UserNotifications.Add($"- You are required to take {med.MedicineName}, Dosage: {med.CountNight}");
                                 notificationsFound = true;
                             }
                         }
@@ -191,24 +152,13 @@ namespace Backend.Services
                     if (!notificationsFound)
                     {
                         user.UserNotifications.Add("No medicine notifications to send at this time.");
+                    }
 
-                        await userCollection.ReplaceOneAsync(
-                          u => u.Id == user.Id,
-                          user,
-                          cancellationToken: stoppingToken);
-                    }
-                    else if (userDocsUpdatedForReset && notificationsFound)
-                    {
-                        // Reset state is saved because notificationsFound triggered a ReplaceOneAsync
-                    }
-                    else if (userDocsUpdatedForReset && !notificationsFound)
-                    {
-                        // Reset state needs saving because no notification ReplaceOneAsync was triggered
-                        await userCollection.ReplaceOneAsync(
-                            u => u.Id == user.Id,
-                            user,
-                            cancellationToken: stoppingToken);
-                    }
+                    // Always update the document to persist notifications or reset states
+                    await userCollection.ReplaceOneAsync(
+                        u => u.Id == user.Id,
+                        user,
+                        cancellationToken: stoppingToken);
                 }
 
                 await Task.Delay(TimeSpan.FromMinutes(1), stoppingToken);

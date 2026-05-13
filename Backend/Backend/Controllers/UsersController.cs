@@ -39,6 +39,10 @@ namespace Backend.Controllers
         public async Task<IActionResult> CreateUser(CreateUserRequest request)
         {
             CreateUserResponse response = await this.mediator.Send(request);
+            if (response.StatusCode == System.Net.HttpStatusCode.BadRequest)
+            {
+                return this.BadRequest(response);
+            }
             return this.Ok(response);
         }
 

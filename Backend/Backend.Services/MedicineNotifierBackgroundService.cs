@@ -24,14 +24,10 @@ namespace Backend.Services
 
             while (!stoppingToken.IsCancellationRequested)
             {
-                var now = DateTime.UtcNow;
+                var now = DateTime.Now; // Folosim ora locală a serverului (România)
 
                 var currentHour = now.Hour;
                 var currentMinute = now.Minute;
-
-                int distanceFromCurrentHourToMorningHour = (8 - currentHour + 24) % 24;
-                int distanceFromCurrentHourToEveningHour = (16 - currentHour + 24) % 24;
-                int distanceFromCurrentHourToNightHour = (22 - currentHour + 24) % 24;
 
                 DateTime nextMorning = now.Date.AddHours(8);
                 if (nextMorning <= now) nextMorning = nextMorning.AddDays(1);
@@ -75,9 +71,10 @@ namespace Backend.Services
                         var medicinesToTakeInEvening = validMedicines.Where(m => m.CountAfterNon > 0 && !m.TakenNoon).ToList();
                         var medicinesToTakeInNight = validMedicines.Where(m => m.CountNight > 0 && !m.TakenEvening).ToList();
 
-                        bool shouldSendEmailMorning = distanceFromCurrentHourToMorningHour == 0 && currentMinute >= 50;
-                        bool shouldSendEmailEvening = distanceFromCurrentHourToEveningHour == 0 && currentMinute >= 50;
-                        bool shouldSendEmailNight = distanceFromCurrentHourToNightHour == 0 && currentMinute >= 50;
+                        // Trimitem email EXACT cu 10 minute inainte de ora stabilita (la minutul 50)
+                        bool shouldSendEmailMorning = currentHour == 7 && currentMinute == 50;
+                        bool shouldSendEmailEvening = currentHour == 15 && currentMinute == 50;
+                        bool shouldSendEmailNight = currentHour == 21 && currentMinute == 50;
 
                         if (shouldSendEmailMorning && medicinesToTakeInMorning.Count > 0)
                         {
